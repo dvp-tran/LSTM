@@ -1,0 +1,291 @@
+|text|type
+0|BROKEN ARROW|unknown
+1|"Written by
+Graham Yost"|location
+2|"FOURTH DRAFT
+March 7, 1995"|unknown
+3|INT. GYMNASIUM, WHITEMAN AFB - DAY|location
+4|2.|stage direction
+5|3.|stage direction
+6|INT. SHOWERS|location
+7|INT. LOCKER ROOM - DAY|location
+8|4.|stage direction
+9|EXT. WHITEMAN AIR FORCE BASE - DUSK|location
+10|INT. WHITEMAN MISSION BRIEFING ROOM|location
+11|5.|stage direction
+12|INT. HANGAR|location
+13|INT. COCKPIT|location
+14|6.|stage direction
+15|INT./EXT. HANGAR|location
+16|INT. COCKPIT|location
+17|EXT. CANYONLANDS NATIONAL PARK, UTAH - NIGHT|location
+18|7.|stage direction
+19|8.|stage direction
+20|EXT. THE NIGHT SKY|location
+21|INT. COCKPIT|location
+22|9.|stage direction
+23|EXT. MCMURRAN AIR FORCE BASE - UTAH|location
+24|INT. MCMURRAN CONTROL CENTER|location
+25|INT. COCKPIT|location
+26|INT. MCMURRAN CONTROL CENTER|location
+27|INT. COCKPIT|location
+28|10.|stage direction
+29|EXT. NIGHT SKY|location
+30|INT. MCMURRAN CONTROL CENTER|location
+31|INT. COCKPIT|location
+32|11.|stage direction
+33|EXT. NIGHT SKY|location
+34|EXT. CANYONLANDS NATIONAL PARK, UTAH - NIGHT|location
+35|EXT. COLORADO RIVER VALLEY - THIRTY MILES UP RIVER|location
+36|12.|stage direction
+37|INT. MCMURRAN CONTROL CENTER|location
+38|INT. COCKPIT|location
+39|13.|stage direction
+40|14.|stage direction
+41|EXT. CANYONLANDS|location
+42|INT. COCKPIT|location
+43|EXT. PARK - NEEDLES AREA|location
+44|15.|stage direction
+45|INT. COCKPIT|location
+46|EXT. THE GHOST|location
+47|INT. COCKPIT|location
+48|EXT. ABOVE GHOST|location
+49|16.|stage direction
+50|EXT. ON THE GROUND|location
+51|INT. COCKPIT|location
+52|INT. BOMB BAYS|location
+53|INT. COCKPIT|location
+54|INT. MCMURRAN CONTROL CENTER|location
+55|INT. GHOST COCKPIT|location
+56|INT. MCMURRAN CONTROL CENTER|location
+57|17.|stage direction
+58|EXT. MCMURRAN RUNWAY|location
+59|EXT. CANYONLANDS|location
+60|INT./EXT. SEARCH AND RESCUE HELICOPTER/DESERT|location
+61|EXT. PENTAGON - NIGHT|location
+62|INT. PENTAGON - SITUATION ROOM|location
+63|18.|stage direction
+64|19.|stage direction
+65|EXT. GHOST CRASH SITE|location
+66|INT. MCMURRAN CONTROL CENTER|location
+67|20.|stage direction
+68|EXT. GHOST CRASH SITE|location
+69|INT.PENTAGON - SITUATION ROOM|location
+70|INT. MCMURRAN CONTROL CENTER|location
+71|21.|stage direction
+72|INT. PENTAGON SITUATION ROOM|location
+73|EXT. CANYONLANDS - DAWN|location
+74|22.|stage direction
+75|23.|stage direction
+76|24.|stage direction
+77|INT./EXT. HELICOPTER|location
+78|EXT. CANYONLANDS|location
+79|25.|stage direction
+80|EXT. CREVICE SITE|location
+81|26.|stage direction
+82|EXT. TOP OF THE CREVICE - BY THE HELICOPTER|location
+83|27.|stage direction
+84|28.|stage direction
+85|29.|stage direction
+86|EXT. BOTTOM OF THE CREVICE|location
+87|INT. HELICOPTER|location
+88|EXT. BOTTOM OF CREVICE|location
+89|INT. MCMURRAN CONTROL CENTER|location
+90|EXT. TOP OF CREVICE|location
+91|EXT. BOTTOM OF CREVICE|location
+92|EXT. ATOP THE CREVICE|location
+93|30.|stage direction
+94|EXT. BOTTOM OF THE CREVICE|location
+95|EXT. ATOP THE CREVICE|location
+96|INT. MCMURRAN CONTROL CENTER|location
+97|31.|stage direction
+98|EXT. ATOP CREVICE|location
+99|INT. MCMURRAN CONTROL CENTER|location
+100|EXT. CREVICE SITE|location
+101|32.|stage direction
+102|INT./EXT. TERRY'S TRUCK - 4WD TRAIL|location
+103|33.|stage direction
+104|34.|stage direction
+105|35.|stage direction
+106|36.|stage direction
+107|EXT. ATOP CREVICE|location
+108|37.|stage direction
+109|INT. MCMURRAN CONTROL ROOM|location
+110|38.|stage direction
+111|INT. PENTAGON SITUATION ROOM|location
+112|39.|stage direction
+113|40.|stage direction
+114|EXT. NEST HELICOPTER - IN FLIGHT|location
+115|INT. NEST HELICOPTER|location
+116|INT. MCMURRAN CONTROL ROOM|location
+117|EXT. HELICOPTER EXPLOSION SITE|location
+118|41.|stage direction
+119|EXT. 4WD TRAIL|location
+120|EXT. CANYONLANDS|location
+121|42.|stage direction
+122|43.|stage direction
+123|44.|stage direction
+124|45.|stage direction
+125|46.|stage direction
+126|EXT. 4WD TRAIL|location
+127|EXT. MINE ENTRANCE|location
+128|INT. MINESHAFT ENTRANCE|location
+129|47.|stage direction
+130|INT. 4WD TRAIL -- DEAKINS' HUMVEE|location
+131|48.|stage direction
+132|49.|stage direction
+133|50.|stage direction
+134|EXT. 4WD TRAIL/ INT. DEAKINS' HUMVEE|location
+135|INT. MINE ENTRANCE|location
+136|51.|stage direction
+137|EXT. 4WD TRAIL|location
+138|INT. MINESHAFT ELEVATOR - DESCENDING|location
+139|EXT. MINE ENTRANCE|location
+140|EXT. MINE - BOTTOM OF ELEVATOR SHAFT|location
+141|52.|stage direction
+142|INT. MINE ENTRANCE|location
+143|INT. PENTAGON SITUATION ROOM|location
+144|INT. MCMURRAN CONTROL CENTER|location
+145|53.|stage direction
+146|EXT. NEST HELICOPTER IN FLIGHT|location
+147|INT. MINESHAFT ELEVATOR - DESCENDING|location
+148|INT. END OF MINE TUNNEL|location
+149|INT. BOTTOM OF ELEVATOR SHAFT|location
+150|54.|stage direction
+151|INT. END OF MINE TUNNEL|location
+152|55.|stage direction
+153|56.|stage direction
+154|57.|stage direction
+155|58.|stage direction
+156|59.|stage direction
+157|INT. BOTTOM OF ELEVATOR SHAFT|location
+158|INT. END OF TUNNEL|location
+159|INT. MINESHAFT ENTRANCE|location
+160|INT. BOTTOM OF ELEVATOR SHAFT|location
+161|60.|stage direction
+162|INT. MINESHAFT ENTRANCE|location
+163|INT. BOTTOM OF ELEVATOR SHAFT|location
+164|61.|stage direction
+165|INT. MINESHAFT ENTRANCE|location
+166|EXT. MINE ENTRANCE|location
+167|INT. NEST HELICOPTER|location
+168|62.|stage direction
+169|INT. MINE TUNNEL|location
+170|INT. MINESHAFT ENTRANCE|location
+171|INT. ELEVATOR|location
+172|EXT. MINE ENTRANCE|location
+173|INT. ELEVATOR|location
+174|63.|stage direction
+175|INT. THE UNDERGROUND RIVER|location
+176|EXT. COLORADO RIVER|location
+177|EXT. 4WD TRAIL/INT. HUMVEE|location
+178|64.|stage direction
+179|INT. MINE TUNNEL|location
+180|EXT. COLORADO RIVER|location
+181|EXT. 4WD TRAIL|location
+182|65.|stage direction
+183|INT. MINE - END OF TUNNEL|location
+184|INT./EXT. NEST HELICOPTER|location
+185|EXT. 4WD TRAIL|location
+186|INT. HUMVEE|location
+187|EXT. 4WD TRAIL|location
+188|INT. MINE - END OF TUNNEL|location
+189|66.|stage direction
+190|EXT. 4WD TRAIL|location
+191|INT. MINE - END OF TUNNEL|location
+192|EXT. 4WD TRAIL|location
+193|67.|stage direction
+194|INT. NEST HELICOPTER|location
+195|EXT. COLORADO RIVER RIVER BANK|location
+196|INT. MCMURRAN CONTROL ROOM|location
+197|EXT. 4WD TRAIL|location
+198|EXT. COLORADO RIVER - RIVER BANK|location
+199|INT. MCMURRAN CONTROL ROOM|location
+200|EXT. 4WD TRAIL|location
+201|INT. MCMURRAN CONTROL ROOM|location
+202|68.|stage direction
+203|INT. PENTAGON -- SITUATION ROOM|location
+204|EXT. 4WD TRAIL|location
+205|69.|stage direction
+206|EXT. COLORADO RIVER - RIVER BANK|location
+207|70.|stage direction
+208|71.|stage direction
+209|EXT. 4WD TRAIL|location
+210|EXT. COLORADO RIVER - RIVERBANK TRAIL|location
+211|72.|stage direction
+212|73.|stage direction
+213|EXT. LAKE POWELL - TRANSFER POINT|location
+214|74.|stage direction
+215|INT. PENTAGON - SITUATION ROOM|location
+216|EXT. LAKE POWELL|location
+217|EXT. LAKE POWELL - TRANSFER POINT|location
+218|75.|stage direction
+219|INT. PENTAGON SITUATION ROOM|location
+220|EXT. LAKE POWELL - MARINA|location
+221|76.|stage direction
+222|EXT./INT. WILKINS' HELICOPTER - IN FLIGHT|location
+223|INT. TRUCK|location
+224|INT. WILKINS' HELICOPTER|location
+225|77.|stage direction
+226|INT. TRUCK|location
+227|78.|stage direction
+228|INT. WILKIN'S HELICOPTER|location
+229|EXT. TRAIN|location
+230|79.|stage direction
+231|INT. WILKINS' HELICOPTER|location
+232|80.|stage direction
+233|EXT. TRAIN|location
+234|INT. TRAIN ENGINE - DRIVER'S COMPARTMENT|location
+235|INT. TRAIN ENGINE ENGINE AREA|location
+236|INT. DRIVER'S COMPARTMENT|location
+237|81.|stage direction
+238|INT. TRAIN ENGINE - ENGINE AREA|location
+239|EXT. TRAIN - BETWEEN ENGINE AND BOXCAR|location
+240|EXT. GAS STATION AND MINI-MART|location
+241|INT. NUKE BOXCAR|location
+242|82.|stage direction
+243|83.|stage direction
+244|INT. PENTAGON SITUATION ROOM|location
+245|INT. NUKE BOXCAR|location
+246|84.|stage direction
+247|EXT. TRAIN|location
+248|85.|stage direction
+249|INT. NUKE BOXCAR|location
+250|EXT. TRAIN - CABOOSE|location
+251|INT. HELICOPTER|location
+252|86.|stage direction
+253|EXT. TRAIN|location
+254|87.|stage direction
+255|88.|stage direction
+256|89.|stage direction
+257|EXT. CAR CARRIER|location
+258|EXT. WILKINS' HELICOPTER - BESIDE TRAIN TRACKS|location
+259|INT. TRAIN ENGINE - DRIVER'S COMPARTMENT|location
+260|INT. BOXCAR|location
+261|EXT. ON TOP OF BOXCAR|location
+262|90.|stage direction
+263|INT. BOXCAR|location
+264|EXT. CAR CARRIER|location
+265|EXT. ROOF OF TRAIN|location
+266|91.|stage direction
+267|92.|stage direction
+268|EXT. CAR CARRIER|location
+269|INT. NUKE BOXCAR|location
+270|93.|stage direction
+271|EXT. CAR CARRIER|location
+272|INT. BOXCAR|location
+273|94.|stage direction
+274|EXT. TRAIN|location
+275|INT. BOXCAR|location
+276|EXT. THE TRAIN AXLE|location
+277|INT. BOXCAR|location
+278|95.|stage direction
+279|EXT. TRAIN|location
+280|INT. BOXCAR|location
+281|EXT. THE TRAIN|location
+282|INT. BOXCAR|location
+283|96.|stage direction
+284|97.|stage direction
+285|EXT. TRAIN TRACKS|location
+286|98.|stage direction
+287|99.|stage direction

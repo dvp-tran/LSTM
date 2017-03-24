@@ -1,0 +1,201 @@
+;classement;titre;annee;duree;categorie;realisateur
+0;1.;Rogue One;(2016);133 min;"
+Action, Adventure, Sci-Fi            ";Gareth Edwards
+1;2.;Finding Dory;(2016);97 min;"
+Animation, Adventure, Comedy            ";Andrew Stanton
+2;3.;Captain America: Civil War;(2016);147 min;"
+Action, Adventure, Sci-Fi            ";Anthony Russo
+3;4.;Comme des bêtes;(2016);87 min;"
+Animation, Adventure, Comedy            ";Chris Renaud
+4;5.;The Jungle Book;(2016);106 min;"
+Adventure, Drama, Family            ";Jon Favreau
+5;6.;Deadpool;(2016);108 min;"
+Action, Adventure, Comedy            ";Tim Miller
+6;7.;Zootopia;(2016);108 min;"
+Animation, Adventure, Comedy            ";Byron Howard
+7;8.;Batman v Superman: Dawn of Justice;(2016);151 min;"
+Action, Adventure, Sci-Fi            ";Zack Snyder
+8;9.;Suicide Squad;(2016);123 min;"
+Action, Adventure, Fantasy            ";David Ayer
+9;10.;Sing;(2016);108 min;"
+Animation, Comedy, Family            ";Christophe Lourdelet
+10;11.;Moana;(I) (2016);107 min;"
+Animation, Adventure, Comedy            ";Ron Clements
+11;12.;Fantastic Beasts and Where to Find Them;(2016);133 min;"
+Adventure, Family, Fantasy            ";David Yates
+12;13.;Doctor Strange;(2016);115 min;"
+Action, Adventure, Fantasy            ";Scott Derrickson
+13;14.;Hidden Figures;(2016);127 min;"
+Biography, Drama, History            ";Theodore Melfi
+14;15.;Jason Bourne;(2016);123 min;"
+Action, Thriller            ";Paul Greengrass
+15;16.;Star Trek Beyond;(2016);122 min;"
+Action, Adventure, Sci-Fi            ";Justin Lin
+16;17.;X-Men: Apocalypse;(2016);144 min;"
+Action, Adventure, Sci-Fi            ";Bryan Singer
+17;18.;Trolls;(2016);92 min;"
+Animation, Adventure, Comedy            ";Walt Dohrn
+18;19.;La La Land;(I) (2016);128 min;"
+Comedy, Drama, Music            ";Damien Chazelle
+19;20.;Kung Fu Panda 3;(2016);95 min;"
+Animation, Action, Adventure            ";Alessandro Carloni
+20;21.;Split;(IX) (2016);117 min;"
+Horror, Thriller            ";M. Night Shyamalan
+21;22.;Ghostbusters;(2016);116 min;"
+Action, Comedy, Fantasy            ";Paul Feig
+22;23.;Central Intelligence;(2016);107 min;"
+Action, Comedy, Crime            ";Rawson Marshall Thurber
+23;24.;The Legend of Tarzan;(2016);110 min;"
+Action, Adventure, Drama            ";David Yates
+24;25.;Sully;(2016);96 min;"
+Biography, Drama            ";Clint Eastwood
+25;26.;Bad Moms;(2016);100 min;"
+Comedy            ";Jon Lucas
+26;27.;The Angry Birds Movie;(2016);97 min;"
+Animation, Action, Adventure            ";Clay Kaytis
+27;28.;Independence Day: Resurgence;(2016);120 min;"
+Action, Adventure, Sci-Fi            ";Roland Emmerich
+28;29.;The Conjuring 2;(2016);134 min;"
+Horror, Mystery, Thriller            ";James Wan
+29;30.;Arrival;(II) (2016);116 min;"
+Drama, Mystery, Sci-Fi            ";Denis Villeneuve
+30;31.;Passengers;(I) (2016);116 min;"
+Adventure, Drama, Romance            ";Morten Tyldum
+31;32.;Sausage Party;(2016);89 min;"
+Animation, Adventure, Comedy            ";Greg Tiernan
+32;33.;The Magnificent Seven;(2016);133 min;"
+Action, Adventure, Western            ";Antoine Fuqua
+33;34.;Ride Along 2;(2016);102 min;"
+Action, Comedy            ";Tim Story
+34;35.;Don't Breathe;(2016);88 min;"
+Crime, Horror, Thriller            ";Fede Alvarez
+35;36.;Miss Peregrine's Home for Peculiar Children;(2016);127 min;"
+Adventure, Drama, Family            ";Tim Burton
+36;37.;The Accountant;(2016);128 min;"
+Action, Crime, Drama            ";Gavin O'Connor
+37;38.;The Purge: Election Year;(2016);109 min;"
+Action, Horror, Sci-Fi            ";James DeMonaco
+38;39.;Alice Through the Looking Glass;(2016);113 min;"
+Adventure, Family, Fantasy            ";James Bobin
+39;40.;Pete's Dragon;(2016);103 min;"
+Adventure, Family, Fantasy            ";David Lowery
+40;41.;The Girl on the Train;(I) (2016);112 min;"
+Drama, Mystery, Thriller            ";Tate Taylor
+41;42.;Boo! A Madea Halloween;(2016);103 min;"
+Comedy, Horror            ";Tyler Perry
+42;43.;Storks;(2016);87 min;"
+Animation, Adventure, Comedy            ";Nicholas Stoller
+43;44.;10 Cloverfield Lane;(2016);104 min;"
+Drama, Horror, Mystery            ";Dan Trachtenberg
+44;45.;Lights Out;(II) (2016);81 min;"
+Horror            ";David F. Sandberg
+45;46.;Tu ne tueras point;(2016);139 min;"
+Biography, Drama, History            ";Mel Gibson
+46;47.;Allegiant;(2016);120 min;"
+Action, Adventure, Mystery            ";Robert Schwentke
+47;48.;Now You See Me 2;(2016);129 min;"
+Action, Adventure, Comedy            ";Jon M. Chu
+48;49.;Ice Age: Collision Course;(2016);94 min;"
+Animation, Adventure, Comedy            ";Mike Thurmeier
+49;50.;The Boss;(2016);99 min;"
+Comedy            ";Ben Falcone
+50;51.;London Has Fallen;(2016);99 min;"
+Action, Crime, Drama            ";Babak Najafi
+51;52.;Miracles from Heaven;(2016);109 min;"
+Biography, Drama, Family            ";Patricia Riggen
+52;53.;Deepwater;(2016);107 min;"
+Drama, Thriller            ";Peter Berg
+53;54.;Why Him?;(2016);111 min;"
+Comedy            ";John Hamburg
+54;55.;My Big Fat Greek Wedding 2;(2016);94 min;"
+Comedy, Family, Romance            ";Kirk Jones
+55;56.;Jack Reacher: Never Go Back;(2016);118 min;"
+Action, Adventure, Crime            ";Edward Zwick
+56;57.;Fences;(2016);139 min;"
+Drama            ";Denzel Washington
+57;58.;Me Before You;(2016);110 min;"
+Drama, Romance            ";Thea Sharrock
+58;59.;The BFG;(2016);117 min;"
+Adventure, Family, Fantasy            ";Steven Spielberg
+59;60.;Neighbors 2: Sorority Rising;(2016);92 min;"
+Comedy            ";Nicholas Stoller
+60;61.;The Shallows;(2016);86 min;"
+Drama, Horror, Thriller            ";Jaume Collet-Serra
+61;62.;Office Christmas Party;(2016);105 min;"
+Comedy            ";Josh Gordon
+62;63.;Assassin's Creed;(2016);115 min;"
+Action, Adventure, Drama            ";Justin Kurzel
+63;64.;Barbershop: The Next Cut;(2016);111 min;"
+Comedy, Drama            ";Malcolm D. Lee
+64;65.;13 Hours;(2016);144 min;"
+Action, Drama, History            ";Michael Bay
+65;66.;Lion;(2016);118 min;"
+Biography, Drama            ";Garth Davis
+66;67.;Kubo and the Two Strings;(2016);101 min;"
+Animation, Adventure, Family            ";Travis Knight
+67;68.;The Huntsman: Winter's War;(2016);114 min;"
+Action, Adventure, Drama            ";Cedric Nicolas-Troyan
+68;69.;Manchester by the Sea;(2016);137 min;"
+Drama            ";Kenneth Lonergan
+69;70.;Warcraft: The Beginning;(2016);123 min;"
+Action, Adventure, Fantasy            ";Duncan Jones
+70;71.;How to Be Single;(2016);110 min;"
+Comedy, Romance            ";Christian Ditter
+71;72.;Mike and Dave Need Wedding Dates;(2016);98 min;"
+Adventure, Comedy, Romance            ";Jake Szymanski
+72;73.;War Dogs;(2016);114 min;"
+Comedy, Crime, Drama            ";Todd Phillips
+73;74.;The Great Wall;(I) (2016);103 min;"
+Action, Adventure, Fantasy            ";Yimou Zhang
+74;75.;Almost Christmas;(2016);111 min;"
+Comedy, Drama            ";David E. Talbert
+75;76.;Money Monster;(2016);98 min;"
+Crime, Drama, Thriller            ";Jodie Foster
+76;77.;Allied;(2016);124 min;"
+Action, Drama, Romance            ";Robert Zemeckis
+77;78.;Nerve;(2016);96 min;"
+Adventure, Crime, Mystery            ";Henry Joost
+78;79.;Risen;(2016);107 min;"
+Action, Adventure, Drama            ";Kevin Reynolds
+79;80.;The Nice Guys;(2016);116 min;"
+Action, Comedy, Crime            ";Shane Black
+80;81.;The Boy;(2016);97 min;"
+Horror, Mystery, Thriller            ";William Brent Bell
+81;82.;Dirty Grandpa;(2016);102 min;"
+Comedy            ";Dan Mazer
+82;83.;The 5th Wave;(2016);112 min;"
+Action, Adventure, Sci-Fi            ";J Blakeson
+83;84.;Ouija: les origines;(2016);99 min;"
+Horror, Thriller            ";Mike Flanagan
+84;85.;Inferno;(I) (2016);121 min;"
+Action, Adventure, Crime            ";Ron Howard
+85;86.;Monster Trucks;(2016);105 min;"
+Animation, Action, Adventure            ";Chris Wedge
+86;87.;Mother's Day;(I) (2016);118 min;"
+Comedy, Drama            ";Garry Marshall
+87;88.;Patriots Day;(2016);133 min;"
+Drama, History, Thriller            ";Peter Berg
+88;89.;Gods of Egypt;(2016);126 min;"
+Action, Adventure, Fantasy            ";Alex Proyas
+89;90.;Collateral Beauty;(2016);97 min;"
+Drama, Romance            ";David Frankel
+90;91.;Underworld: Blood Wars;(2016);91 min;"
+Action, Horror            ";Anna Foerster
+91;92.;Hail, Caesar!;(2016);106 min;"
+Comedy, Mystery            ";Ethan Coen
+92;93.;When the Bough Breaks;(2016);107 min;"
+Drama, Horror, Mystery            ";Jon Cassar
+93;94.;Zoolander 2;(2016);102 min;"
+Comedy            ";Ben Stiller
+94;95.;The Finest Hours;(2016);117 min;"
+Action, Drama, History            ";Craig Gillespie
+95;96.;Florence Foster Jenkins;(2016);111 min;"
+Biography, Comedy, Drama            ";Stephen Frears
+96;97.;Hell or High Water;(II) (2016);102 min;"
+Crime, Drama, Western            ";David Mackenzie
+97;98.;Resident Evil: The Final Chapter;(2016);106 min;"
+Action, Horror, Sci-Fi            ";Paul W.S. Anderson
+98;99.;The Forest;(I) (2016);93 min;"
+Horror, Mystery, Thriller            ";Jason Zada
+99;100.;Ben-Hur;(2016);123 min;"
+Action, Adventure, Drama            ";Timur Bekmambetov
