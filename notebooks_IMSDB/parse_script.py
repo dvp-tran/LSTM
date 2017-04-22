@@ -178,6 +178,13 @@ def parse(url,path,name):
         return
     
     script_text,soup=get_script(url)
+    #write raw file:
+    if not os.path.exists(path+'raw/'):
+        os.makedirs(path+'raw/')
+    with open(path+'raw/'+"%s.txt" %name, "w") as text_file:
+        text_file.write(str(script_text))
+    #####
+    
     space_vector,character_presence = white_space_analysis(script_text,soup)
     usual_spaces,flag=identify_usual_spaces(space_vector,character_presence)
 
