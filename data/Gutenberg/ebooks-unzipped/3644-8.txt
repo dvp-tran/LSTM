@@ -1,0 +1,855 @@
+Project Gutenberg's Vie de Moliere[Jean-Baptiste Poquelin], by Voltaire
+#2 in our series by Voltaire [Francois Marie Arouet]
+
+Copyright laws are changing all over the world, be sure to check
+the laws for your country before redistributing these files!!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.
+
+Please do not remove this.
+
+This should be the first thing seen when anyone opens the book.
+Do not change or edit it without written permission.  The words
+are carefully chosen to provide users with the information they
+need about what they can legally do with the texts.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*****These Etexts Are Prepared By Thousands of Volunteers!*****
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below, including for donations.
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541
+
+
+Title: Vie de Moliere [Pseudonym of Jean-Baptiste Poquelin]
+
+Author:  Voltaire [Pseudonym of Francois Marie Arouet]
+
+Release Date: January, 2003  [Etext #3644]
+[Yes, we are about one year ahead of schedule]
+[The actual date this file first posted = 07/02/01]
+
+Edition: 10
+
+Language: French [This is the 8-bit unaccented version]
+[I fear the accents have been lost, working on it]
+
+Project Gutenberg Etext Vie de Moliere, Voltaire[Jean-Baptiste Poquelin]
+**********This file should be named 3644-8.txt or 3644-8.zip**********
+
+This etext was produced by Laurent Le Guillou
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+We are now trying to release all our books one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to send us error messages even years after
+the official publication date.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our sites at:
+http://gutenberg.net
+http://promo.net/pg
+
+
+Those of you who want to download any Etext before announcement
+can surf to them as follows, and just download by date; this is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03
+or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release fifty new Etext
+files per month, or 500 more Etexts in 2000 for a total of 3000+
+If they reach just 1-2% of the world's population then the total
+should reach over 300 billion Etexts given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 4,000 Etexts unless we
+manage to get some real funding.
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of June 16, 2001 contributions are only being solicited from people in:
+Arkansas, Colorado, Connecticut, Delaware, Hawaii, Idaho, Indiana,
+Iowa, Kansas, Louisiana, Maine, Massachusetts, Minnesota, Missouri,
+Montana, Nebraska, Nevada, New Jersey, New York, Ohio, Oklahoma,
+Oregon, Rhode Island, South Carolina, South Dakota, Tennessee,
+Texas, Vermont, Virginia, Washington, West Virginia, and Wyoming.
+
+We have filed in nearly all states now, and these are the ones
+that have responded as of the date above.
+
+As the requirements for other states are met,
+additions to this list will be made and fund raising
+will begin in the additional states.  Please feel
+free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork
+to legally request donations in all 50 states.  If
+your state is not listed and you would like to know
+if we have added it since the list you have, just ask.
+
+While we cannot solicit donations from people in
+states where we are not yet registered, we know
+of no prohibition against accepting donations
+from donors in these states who approach us with
+an offer to donate.
+
+
+International donations are accepted,
+but we don't know ANYTHING about how
+to make them tax-deductible, or
+even if they CAN be made deductible,
+and don't have the staff to handle it
+even if there are ways.
+
+All donations should be made to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541,
+and has been approved as a 501(c)(3) organization by the US Internal
+Revenue Service (IRS).  Donations are tax-deductible to the maximum
+extent permitted by law.  As the requirements for other states are met,
+additions to this list will be made and fund raising will begin in the
+additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+***
+
+
+Example command-line FTP session:
+
+ftp ftp.ibiblio.org
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99 or etext00 through etext02, etc.
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you may distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-tm etexts,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this etext from as a PROJECT GUTENBERG-tm etext) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this etext,
+[2] alteration, modification, or addition to the etext,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.06/12/01*END*
+[Portions of this header are copyright (C) 2001 by Michael S. Hart
+and may be reprinted only when these Etexts are free of all fees.]
+[Project Gutenberg is a TradeMark and may not be used in any sales
+of Project Gutenberg Etexts or other materials be they hardware or
+software or any other related product without express permission.]
+
+
+
+
+
+
+
+
+This etext was produced by Laurent Le Guillou
+
+
+
+
+
+Source:
+
+Jean-Baptiste Poquelin (1620-1673), alias Molière,
+"Oeuvres de Molière, avec des notes de tous les commentateurs",
+Tome Premier,
+Paris, Librarie de Firmin-Didot et Cie,
+Imprimeurs de l'Institut, rue Jacob, 56,
+1890.
+
+[Spelling of the 1890 edition. Footnotes have been retained because
+they provide the meanings of old French words or expressions.
+Footnote are indicated by numbers in brackets, and are grouped
+at the end of the Etext.
+Downcase accents have been kept, but not upcase accents (not
+well supported by all software). Text encoding is iso-8859-1.]
+
+
+
+
+
+VIE DE MOLIERE
+
+PAR VOLTAIRE
+
+
+Le goût de bien des lecteurs pour les choses frivoles, et
+l'envie de faire un volume de ce qui ne devrait remplir que
+peu de pages, sont cause que l'histoire des hommes célèbres
+est presque toujours gâtée par des détails inutiles et des
+contes populaires aussi faux qu'insipides. On y ajoute souvent
+des critiques injustes de leurs ouvrages. C'est ce qui est
+arrivé dans l'édition de Racine faite à Paris en 1728. On
+tâchera d'éviter cet écueil dans cette courte histoire de la vie
+de Molière ; on ne dira de sa propre personne que ce qu'on a
+cru vrai et digne d'être rapporté, et on ne hasardera sur ses
+ouvrages rien qui soit contraire aux sentiments du public
+éclairé.
+
+Jean-Baptiste Poquelin naquit à Paris en 1620, dans une
+maison qui subsiste encore sous les piliers des halles. Son
+père, Jean-Baptiste Poquelin, valet de chambre tapissier chez
+le roi, marchand fripier, et Anne Boutet, sa mère, lui
+donnèrent une éducation trop conforme à leur état, auquel ils le
+destinaient : il resta jusqu'à quatorze ans dans leur boutique,
+n'ayant rien appris, outre son métier, qu'un peu à lire et à
+écrire. Ses parents obtinrent pour lui la survivance de leur
+charge chez le roi ; mais son génie l'appelait ailleurs. On a
+remarqué que presque tous ceux qui se sont fait un nom dans
+les beaux-arts les ont cultivés malgré leurs parents, et que
+la nature a toujours été en eux plus forte que l'éducation.
+
+Poquelin avait un grand-père qui aimait la comédie, et qui
+le menait quelquefois à l'hôtel de Bourgogne. Le jeune homme
+sentit bientôt une aversion invincible pour sa profession. Son
+goût pour l'étude se développa ; il pressa son grand-père
+d'obtenir qu'on le mît au collège, et il arracha enfin le
+consentement de son père, qui le mit dans une pension, et
+l'envoya externe aux jésuites, avec la répugnance d'un bourgeois
+qui croyait la fortune de son fils perdue s'il étudiait.
+
+Le jeune Poquelin fit au collège les progrès qu'on devait
+attendre de son empressement à y entrer. Il y étudia cinq
+années ; il y suivit le cours des classes d'Armand de Bourbon,
+premier prince de Conti, qui depuis fut le protecteur des
+lettres et de Molière.
+
+Il y avait alors dans ce collège deux enfants qui eurent
+depuis beaucoup de réputation dans le monde. C'étaient
+Chapelle et Bernier ; celui-ci connu par ses voyages aux Indes,
+et l'autre célèbre par quelques vers naturels et aisés, qui lui
+ont fait d'autant plus de réputation qu'il ne rechercha pas
+celle d'auteur.
+
+L'Huillier, homme de fortune, prenait un soin singulier
+de l'éducation du jeune Chapelle, son fils naturel ; et, pour
+lui donner de l'émulation, il faisait étudier avec lui le jeune
+Bernier, dont les parents étaient mal à leur aise. Au lieu même
+de donner à son fils naturel un précepteur ordinaire et pris
+au hasard, comme tant de pères en usent avec un fils légitime
+qui doit porter leur nom, il engagea le célèbre Gassendi à se
+charger de l'instruire.
+
+Gassendi ayant démêlé de bonne heure le génie de
+Poquelin, l'associa aux études de Chapelle et de Bernier.
+Jamais plus illustre maître n'eut de plus dignes disciples. Il
+leur enseigna sa philosophie d'Epicure, qui, quoique aussi
+fausse que les autres, avait au moins plus de méthode et plus
+de vraisemblance que celle de l'école, et n'en avait pas la
+barbarie.
+
+Poquelin continua de s'instruire sous Gassendi. Au sortir
+du collège, il reçut de ce philosophe les principes d'une
+morale plus utile que sa physique, et il s'écarta rarement de ces
+principes dans le cours de sa vie.
+
+Son père étant devenu infirme et incapable de servir, il fut
+obligé d'exercer les fonctions de son emploi auprès du roi.
+Il suivit Louis XIII dans le voyage que ce monarque fit en
+Languedoc en 1641 ; et, de retour à Paris, sa passion pour la
+comédie, qui l'avait déterminé à faire ses études, se réveilla
+avec force.
+
+Le théâtre commençait à fleurir alors : cette partie des
+belles-lettres, si méprisée quand elle est médiocre, contribue
+à la gloire d'un Etat quand elle est perfectionnée.
+
+Avant l'année 1625, il n'y avait point de comédiens fixes à
+Paris. Quelques farceurs allaient, comme en Italie, de ville
+en ville : ils jouaient des pièces de Hardy, de Monchrétien, ou
+de Balthazar Baro.
+
+Ces auteurs leur vendaient leurs ouvrages dix écus pièce.
+
+Pierre Corneille tira le théâtre de la barbarie et de
+l'avilissement, vers l'année 1630. Ses premières comédies, qui
+étaient aussi bonnes pour son siècle qu'elles sont mauvaises
+pour le nôtre, furent cause qu'une troupe de comédiens
+s'établit à Paris. Bientôt après, la passion du cardinal de
+Richelieu pour les spectacles mit le goût de la comédie à la
+mode, et il y avait plus de sociétés particulières qui
+représentaient alors que nous n'en voyons aujourd'hui.
+
+Poquelin s'associa avec quelques jeunes gens qui avaient
+du talent pour la déclamation ; ils jouaient au faubourg
+Saint-Germain et au quartier Saint-Paul. Cette société éclipsa
+bientôt toutes les autres ; on l'appela l'"Illustre Théâtre". On
+voit par une tragédie de ce temps-là, intitulée Artaxerce,
+d'un nommé Magnon, et imprimée en 1645, qu'elle fut
+représentée sur l'illustre théâtre.
+
+Ce fut alors que Poquelin, sentant son génie, se résolut de
+s'y livrer tout entier, d'être à la fois comédien et auteur, et
+de tirer de ses talents de l'utilité et de la gloire.
+
+On sait que chez les Athéniens les auteurs jouaient souvent
+dans leurs pièces, et qu'ils n'étaient point déshonorés pour
+parler avec grâce en public devant leurs concitoyens. Il fut
+plus encouragé par cette idée que retenu par les préjugés de
+son siècle. Il prit le nom de Molière, et il ne fit, en
+changeant de nom, que suivre l'exemple des comédiens d'Italie et
+de ceux de l'hôtel de Bourgogne. L'un, dont le nom de
+famille était le Grand, s'appelait Belleville dans la tragédie, et
+Turlupin dans la farce ; d'où vient le mot de "turlupinade".
+Hugues Guéret était connu, dans les pièces sérieuses, sous le
+nom de Fléchelles ; dans la farce, il jouait toujours un
+certain rôle qu'on appelait Gautier-Garguille ; de même,
+Arlequin et Scaramouche n'étaient connus que sous ce nom de
+théâtre. Il y avait déjà eu un comédien appelé Molière, auteur
+de la tragédie de "Polyxène" (1).
+
+Le nouveau Molière fut ignoré pendant tout le temps que
+durèrent les guerres civiles en France ; il employa ces années
+à cultiver son talent et à préparer quelques pièces. Il avait
+fait un recueil de scènes italiennes, dont il faisait de petites
+comédies pour les provinces. Ces premiers essais, très informes,
+tenaient plus du mauvais théâtre italien, où il les avait
+pris, que de son génie, qui n'avait pas eu encore l'occasion de
+se développer tout entier. Le génie s'étend et se resserre par
+tout ce qui nous environne. Il fit donc pour la province
+"le Docteur amoureux", "les trois Docteurs rivaux",
+"le Maître d'école" ; ouvrages dont il ne reste que le titre.
+Quelques curieux ont conservé deux pièces de Molière dans ce genre :
+l'une est "le Médecin volant", et l'autre "la Jalousie de
+Barbouille".  Elles sont en prose et écrites en entier. Il y a
+quelques phrases et quelques incidents de la première qui nous
+sont conservés dans "le Médecin malgré lui" ; et on trouve
+dans "la Jalousie de Barbouille" un canevas, quoique informe,
+du troisième acte de "George Dandin".
+
+La première pièce régulière en cinq actes qu'il composa fut
+"l'Etourdi". Il représenta cette comédie à Lyon en 1653. Il y
+avait dans cette ville une troupe de comédiens de campagne,
+qui fut abandonnée dès que celle de Molière parut.
+
+Quelques acteurs de cette ancienne troupe se joignirent à
+Molière, et il partit de Lyon pour les états de Languedoc
+avec une troupe assez complète, composée principalement de
+deux frères nommés Gros-René, de du Parc, d'un pâtissier (2)
+de la rue Saint-Honoré, de la du Parc, de la Béjart, et de
+la de Brie.
+
+Le prince de Conti, qui tenait les états de Languedoc à
+Béziers, se souvint de Molière, qu'il avait vu au collège ; il
+lui donna une protection distinguée. Molière joua devant lui
+"l'Etourdi", "le Dépit amoureux", et "les Précieuses ridicules".
+
+Cette petite pièce des "Précieuses", faite en province,
+prouve assez que son auteur n'avait eu en vue que les
+ridicules des provinciales ; mais il se trouva depuis que
+l'ouvrage pouvait corriger et la cour et la ville.
+
+Molière avait alors trente-quatre ans ; c'est l'âge où Corneille
+fit "le Cid". Il est bien difficile de réussir avant cet âge
+dans le genre dramatique, qui exige la connaissance du
+monde et du coeur humain.
+
+On prétend que le prince de Conti voulut alors faire
+Molière son secrétaire, et que, heureusement pour la gloire du
+théâtre français, Molière eut le courage de préférer son talent
+à un poste honorable. Si ce fait est vrai, il fait également
+honneur au prince et au comédien.
+
+Après avoir couru quelque temps toutes les provinces, et
+avoir joué à Grenoble, à Lyon, à Rouen, il vint enfin à Paris
+en 1658. Le prince de Conti lui donna accès auprès de Monsieur,
+frère unique du roi Louis XIV ; Monsieur le présenta
+au roi et à la reine mère. Sa troupe et lui représentèrent la
+même année, devant leurs majestés, la tragédie de "Nicomède",
+sur un théâtre élevé par ordre du roi dans la salle des gardes
+du vieux Louvre.
+
+Il y avait depuis quelques temps des comédiens établis à
+l'hôtel de Bourgogne. Ces comédiens assistèrent au début de
+la nouvelle troupe. Molière, après la représentation de
+"Nicomède", s'avança sur le bord du théâtre, et prit la liberté de
+faire au roi un discours par lequel il remerciait sa majesté de
+son indulgence, et louait adroitement les comédiens de l'hôtel
+de Bourgogne, dont il devait craindre la jalousie : il finit
+en demandant la permission de donner une pièce d'un acte
+qu'il avait jouée en province.
+
+La mode de représenter ces petites farces après de grandes
+pièces était perdue à l'hôtel de Bourgogne. Le roi agréa
+l'offre de Molière, et l'on joua dans l'instant "le Docteur amoureux".
+Depuis ce temps, l'usage a toujours continué de donner
+de ces pièces d'un acte ou de trois après les pièces de cinq.
+
+On permit à la troupe de Molière de s'établir à Paris ; ils
+s'y fixèrent, et partagèrent le théâtre du Petit-Bourbon avec
+les comédiens italiens, qui en étaient en possession depuis
+quelques années.
+
+La troupe de Molière jouait sur ce théâtre les mardis, les
+jeudis et les samedis ; et les Italiens, les autres jours.
+
+La troupe de l'hôtel de Bourgogne ne jouait aussi que trois fois
+la semaine, excepté lorsqu'il y avait des pièces nouvelles.
+
+Dès lors, la troupe de Molière prit le titre de "la Troupe de
+Monsieur", qui était son protecteur. Deux ans après, en 1660,
+il leur accorda la salle du Palais-Royal. Le cardinal de Richelieu
+l'avait fait bâtir pour la représentation de "Mirame",
+tragédie dans laquelle ce ministre avait composé plus de cinq
+cents vers. Cette salle est aussi mal construite que la pièce
+pour laquelle elle fut bâtie ; et je suis obligé de remarquer à
+cette occasion, que nous n'avons aujourd'hui aucun théâtre
+supportable : c'est une barbarie gothique que les Italiens nous
+reprochent avec raison. Les bonnes pièces sont en France, et
+les belles salles en Italie.
+
+La troupe de Molière eut la jouissance de cette salle jusqu'à
+la mort de son chef. Elle fut alors accordée à ceux qui eurent
+le privilège de l'Opéra, quoique ce vaisseau soit moins propre
+encore pour le chant que pour la déclamation.
+
+Depuis l'an 1658 jusqu'à 1673, c'est à dire en quinze années
+de temps, il donna toutes ses pièces, qui sont au nombre
+de trente. Il voulut jouer dans la tragédie, mais il n'y
+réussit pas ; il avait une volubilité dans la voix, et une espèce
+de hoquet qui ne pouvait convenir au genre sérieux, mais qui
+rendait son jeu comique plus plaisant. La femme (3) d'un des
+meilleurs comédiens que nous ayons eus a donné ce portrait-ci
+de Molière :
+
+<< Il n'était ni trop gras ni trop maigre ; il avait la taille
+plus grande que petite, le port noble, la jambe belle ; il
+marchait gravement, avait l'air très sérieux, le nez gros,
+la bouche grande, les lèvres épaisses, le teint brun, les
+sourcils noirs et forts ; et les divers mouvements qu'il leur
+donnait lui rendaient la physionomie extrêmement comique.
+A l'égard de son caractère, il était doux, complaisant,
+généreux. Il aimait fort à haranguer ; et quand il
+lisait ses pièces aux comédiens, il voulait qu'ils y
+amenassent leurs enfants, pour tirer des conjectures de leur
+mouvement naturel. >>
+
+Molière se fit dans Paris un très grand nombre de partisans,
+et presque autant d'ennemis. Il accoutuma le public, en lui
+faisant connaître la bonne comédie, à le juger lui-même très
+sévèrement. Les mêmes spectateurs qui applaudissaient aux
+pièces médiocres des autres auteurs, relevaient les moindres
+défauts de Molière avec aigreur. Les hommes jugent de nous
+par l'attente qu'ils en ont conçue ; et le moindre défaut d'un
+auteur célèbre, joint avec les malignités du public, suffit pour
+faire tomber un bon ouvrage. Voilà pourquoi "Britannicus"
+et "les Plaideurs" de M. Racine furent si mal reçus ; voilà
+pourquoi "l'Avare", "le Misanthrope", "les Femmes savantes",
+"l'Ecole des Femmes" n'eurent d'abord aucun succès.
+
+Louis XIV, qui avait un goût naturel et l'esprit très juste,
+sans l'avoir cultivé, ramena souvent, par son approbation,
+la cour et la ville aux pièces de Molière. Il eût été plus
+honorable pour la nation de n'avoir pas besoin des décisions de
+son prince pour bien juger. Molière eut des ennemis cruels,
+surtout les mauvais auteurs du temps, leurs protecteurs
+et leurs cabales : ils suscitèrent contre lui les dévots ; on lui
+imputa des livres scandaleux ; on l'accusa d'avoir joué des
+hommes puissants, tandis qu'il n'avait joué que les vices en
+général ; et il eût succombé sous ces accusations, si ce même
+roi, qui encouragea et qui soutint Racine et Despréaux, n'eût
+pas aussi protégé Molière.
+
+Il n'eut à la vérité qu'une pension de mille livres, et sa
+troupe n'en eut qu'une de sept. La fortune qu'il fit par le
+succès de ses ouvrages le mit en état de n'avoir rien de plus à
+souhaiter ; ce qu'il retirait du théâtre, avec ce qu'il avait placé,
+allait à trente mille livres de rente ; somme qui, en ce temps-là,
+faisait presque le double de la valeur réelle de pareille
+somme d'aujourd'hui.
+
+Le crédit qu'il avait auprès du roi paraît assez par le
+canonicat qu'il obtint pour le fils de son médecin. Ce médecin
+s'appelait Mauvilain. Tout le monde sait qu'étant un jour au
+dîner du roi : << Vous avez un médecin >>, dit le roi à Molière ;
+<< que vous fait-il ? >> << Sire >>, répondit Molière, << Nous causons
+ensemble ; il m'ordonne des remèdes, je ne les fais point, et
+je guéris. >>
+
+Il faisait de son bien un usage noble et sage ; il recevait
+chez lui des hommes de la meilleure compagnie, les Chapelle,
+les Jonsac, les Desbarreaux, etc., qui joignaient la volupté
+et la philosophie. Il avait une maison de campagne à Auteuil
+où il se délassait souvent avec eux des fatigues de sa
+profession, qui sont bien plus grandes qu'on ne pense. Le maréchal
+de Vivonne, connu par son esprit et par son amitié pour
+Despréaux, allait souvent chez Molière, et vivait avec lui comme
+Lélius avec Térence. Le grand Condé exigeait de lui qu'il le
+vînt voir souvent, et disait qu'il trouvait toujours à apprendre
+dans sa conversation.
+
+Molière employait une partie de son revenu en libéralités,
+qui allaient beaucoup plus loin que ce qu'on appelle dans
+d'autres hommes "des charités". Il encourageait souvent par
+des présents considérables de jeunes auteurs qui marquaient
+du talent : c'est peut-être à Molière que la France doit Racine.
+Il engagea le jeune Racine, qui sortait de Port-Royal, à
+travailler pour le théâtre dès l'âge de dix-neuf ans. Il lui fit
+composer la tragédie de "Théagène et de Chariclée" ; et quoique
+cette pièce fût trop faible pour être jouée, il fit présent
+au jeune auteur de cent louis, et lui donna le plan des "Frères
+ennemis".
+
+Il n'est peut-être pas inutile de dire qu'environ dans le
+même temps, c'est à dire en 1661, Racine ayant fait une ode
+sur le mariage de Louis XIV, M. Colbert lui envoya cent
+louis au nom du roi.
+
+Il est triste pour l'honneur des lettres, que Molière et
+Racine aient été brouillés depuis : de si grands génies, dont
+l'un avait été le bienfaiteur de l'autre, devaient être toujours
+amis.
+
+Il éleva et il forma un autre homme qui, par la supériorité
+de ses talents et par les dons singuliers qu'il avait reçus de la
+nature, mérite d'être connu de la postérité. C'est le comédien
+Baron, qui a été unique dans la tragédie et dans la comédie.
+Molière en prit soin comme de son propre fils.
+
+Un jour, Baron vint lui annoncer qu'un comédien de campagne,
+que la pauvreté empêchait de se présenter, lui demandait
+quelques légers secours pour aller joindre sa troupe.
+Molière ayant su que c'était un nommé Mondorge, qui avait
+été son camarade, demanda à Baron combien il croyait qu'il
+fallait lui donner. Celui-ci répondit au hasard : << Quatre pistoles.
+-- Donnez lui quatre pistoles pour moi >>, lui dit Molière,
+<< en voici vingt qu'il faut que vous lui donniez pour
+vous >> ; et il joignit à ce présent celui d'un habit magnifique.
+Ce sont de petits faits ; mais ils peignent le caractère.
+
+Un autre trait mérite plus d'être rapporté. Il venait de donner
+l'aumône à un pauvre : un instant après, le pauvre court
+après lui, et lui dit : << Monsieur, vous n'aviez peut-être pas
+dessein de me donner un louis d'or : je viens vous le rendre.
+-- Tiens, mon ami >>, dit Molière, << en voilà un autre. >> ;
+et il s'écria : << Où la vertu va-t-elle se nicher ! >> Exclamation
+qui peut faire voir qu'il réfléchissait sur tout ce qui se
+présentait à lui, et qu'il étudiait partout la nature en homme
+qui la voulait peindre.
+
+Molière, heureux par ses succès et par ses protecteurs,
+par ses amis et par sa fortune, ne le fut pas dans sa maison.
+Il avait épousé en 1661 une jeune fille née de la Béjart et d'un
+gentilhomme nommé Modène. On disait que Molière en était
+le père : le soin avec lequel on avait répandu cette calomnie,
+fit que plusieurs personnes prirent celui de la réfuter. On
+prouva que Molière n'avait connu la mère qu'après la naissance
+de cette fille. La disproportion d'âge et les dangers
+auxquels une comédienne jeune et belle est exposée rendirent
+ce mariage malheureux ; et Molière, tout philosophe
+qu'il était d'ailleurs, essuya dans son domestique les dégoûts,
+les amertumes, et quelquefois les ridicules qu'il avait si
+souvent joué sur le théâtre : tant il est vrai que les hommes qui
+sont au-dessus des autres par les talents, s'en rapprochent
+presque toujours par les faiblesses ; car pourquoi les talents
+nous mettraient-ils au-dessus de l'humanité ?
+
+La dernière pièce qu'il composa fut "le Malade imaginaire".
+Il y avait quelque temps que sa poitrine était attaquée, et
+qu'il crachait quelquefois du sang. Le jour de la troisième
+représentation, il se sentit plus incommodé qu'auparavant : on
+lui conseilla de ne point jouer ; mais il voulut faire un effort
+sur lui-même, et cet effort lui coûta la vie.
+
+Il lui prit une convulsion en prononçant "juro", dans le
+divertissement de la réception du malade imaginaire. On le
+rapporta mourant chez lui, rue de Richelieu. Il fut assisté
+quelques moments par deux de ces religieuses qui viennent
+quêter à Paris pendant le carême, et qu'il logeait chez lui. Il
+mourut entre leurs bras, étouffé par le sang qui lui sortait
+par la bouche, le 17 février 1673, âgé de cinquante-trois ans.
+Il ne laissa qu'une fille, qui avait beaucoup d'esprit. Sa veuve
+épousa un comédien nommé Guérin.
+
+Le malheur qu'il avait eu de ne pouvoir mourir avec les
+secours de la religion et la prévention contre la comédie
+déterminèrent Harlay de Chanvalon, archevêque de Paris, si
+connu par ses intrigues galantes, à refuser la sépulture à
+Molière. Le roi le regrettait ; et ce monarque, dont il avait été
+le domestique et le pensionnaire, eut la bonté de prier
+l'archevêque de Paris de le faire inhumer dans une église. Le curé
+de Saint-Eustache, sa paroisse, ne voulut pas s'en charger.
+La populace, qui ne connaissait dans Molière que le comédien,
+et qui ignorait qu'il avait été un excellent auteur, un
+philosophe, un grand homme en son genre, s'attroupa en foule à la
+porte de sa maison le jour du convoi : sa veuve fut obligée de
+jeter de l'argent par les fenêtres ; et ces misérables, qui
+auraient, sans savoir pourquoi, troublé l'enterrement,
+accompagnèrent le corps avec respect.
+
+La difficulté qu'on fit de lui donner la sépulture, et les
+injustices qu'il avait essuyées pendant sa vie, engagèrent le
+fameux père Bouhours à composer cette espèce d'épitaphe,
+qui, de toutes celles qu'on fit pour Molière, est la seule qui
+mérite d'être rapportée, et la seule qui ne soit pas dans cette
+fausse et mauvaise histoire qu'on a mise jusqu'ici au-devant
+de ses ouvrages :
+
+        Tu réformas et la ville et la cour ;
+                Mais quelle en fut la récompense ?
+                Les Français rougiront un jour
+                De leur peu de reconnaissance.
+                Il leur fallut un comédien
+        Qui mît à les polir sa gloire et son étude :
+        Mais, Molière, à ta gloire il ne manquerait rien,
+        Si, parmi les défauts que tu peignis si bien,
+        Tu les avais repris de leur ingratitude.
+
+Non seulement j'ai omis dans cette Vie de Molière les
+contes populaires touchant Chapelle et ses amis ; mais je suis
+obligé de dire que ces contes, adoptés par Grimarest, sont très
+faux. Le feu duc de Sully, le dernier prince de Vendôme,
+l'abbé de Chaulieu, qui avaient beaucoup vécu avec Chapelle,
+m'ont assuré que toutes ces historiettes ne méritaient
+aucune créance.
+
+
+
+FIN DE LA VIE DE MOLIERE.
+
+
+-------------------------------------------------------------------------
+
+Notes [from 1890 edition]
+
+-----------
+(1) Un autre Molière (François), sieur d'Essertines, publia en
+1620 un roman en un vol.in-octavo, intitulé "La Semaine amoureuse".
+-----------
+(2) Peut-être faut-il lire : "de du Parc, FILS d'un pâtissier," etc.
+-----------
+(3) Mademoiselle du Croisy, fille du comédien du Croisy, et femme de
+Paul Poisson, comédien, fils de Raimond Poisson.
+-----------
+
+
+
+
+
+Fin de Project Gutenberg Etext Vie de Moliere, Voltaire[Jean-Baptiste Poquelin]
+

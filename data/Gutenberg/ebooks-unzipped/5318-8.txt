@@ -1,0 +1,2548 @@
+The Project Gutenberg EBook of Les Précieuses Ridicules, by Molière
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Les Précieuses Ridicules
+
+Author: Molière
+
+Posting Date: April 17, 2013 [EBook #5318]
+Release Date: July, 2004
+First Posted: June 30, 2002
+
+Language: French
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK LES PRÉCIEUSES RIDICULES ***
+
+
+
+
+Produced by Laurent Le Guillou
+
+
+
+
+
+
+
+Les Précieuses Ridicules
+
+
+
+
+
+Source:
+
+Jean-Baptiste Poquelin (1620-1673), alias Molière,
+"Oeuvres de Molière, avec des notes de tous les commentateurs",
+Tome Premier,
+Paris, Librarie de Firmin-Didot et Cie,
+Imprimeurs de l'Institut, rue Jacob, 56,
+1890.
+
+Pages 151-181.
+
+[Spelling of the 1890 edition. Footnotes have been retained because
+they provide the meanings of old French words or expressions.
+Footnote are indicated by numbers in brackets, and are grouped
+at the end of the Etext. Text encoding is iso-8859-1.]
+
+
+-------------------------------------------------------------------------
+
+
+
+PRÉFACE DES PRÉCIEUSES RIDICULES
+
+
+C'est une chose étrange qu'on imprime les gens malgré eux ! Je ne vois
+rien de si injuste, et je pardonnerais toute autre violence plutôt que
+celle-là.
+
+Ce n'est pas que je veuille faire ici l'auteur modeste, et mépriser
+par honneur ma comédie. J'offenserais mal à propos tout Paris, si je
+l'accusais d'avoir pu applaudir à une sottise ; comme le public est le
+juge absolu de ces sortes d'ouvrages, il y aurait de l'impertinence à
+moi de le démentir ; et quand j'aurais eu la plus mauvaise opinion du
+monde de mes "Précieuses ridicules" avant leur représentation, je dois
+croire maintenant qu'elles valent quelque chose, puisque tant de gens
+ensemble en ont dit du bien. Mais comme une grande partie des grâces
+qu'on y a trouvées dépendent de l'action et du ton de la voix, il
+m'importait qu'on ne les dépouillât pas de ces ornements, et je
+trouvais que le succès qu'elles avaient eu dans la représentation
+était assez beau pour en demeurer là. J'avais résolu, dis-je, de les
+faire voir qu'à la chandelle, pour ne point donner lieu à quelqu'un de
+dire le proverbe (1), et je ne voulais pas qu'elles sautassent du
+théâtre de Bourbon dans la galerie du Palais. Cependant je n'ai pu
+l'éviter, et je suis dans la disgrâce de voir une copie dérobée de ma
+pièce entre les mains des libraires, accompagnée d'un privilège obtenu
+par surprise. j'ai eu beau crier : O temps ! ô moeurs ! on m'a fait
+voir une nécessité pour moi d'être imprimé, ou d'avoir un procès ; et
+le dernier mal est encore pire que le premier. Il faut donc se laisser
+aller à la destinée, et consentir à une chose qu'on ne laisserait pas
+de faire sans moi.
+
+Mon Dieu ! l'étrange embarras qu'un livre à mettre au jour ; et qu'un
+auteur est neuf la première fois qu'on l'imprime ! Encore si l'on
+m'avait donné du temps, j'aurais pu mieux songer à moi, et j'aurais
+pris toutes les précautions que messieurs les auteurs, à présent mes
+confrères, ont coutume de prendre en semblables occasions. Outre
+quelque grand seigneur que j'aurais été prendre malgré lui pour
+protecteur de mon ouvrage, et dont j'aurais tenté la libéralité par
+une épître dédicatoire bien fleurie, j'aurais tâché de faire une belle
+et docte préface ; et je ne manque point de livres qui m'auraient
+fourni tout ce qu'on peut dire de savant sur la tragédie et la
+comédie, l'étymologie de toutes deux, leur origine, leur définition,
+et le reste.
+
+J'aurais aussi parlé à mes amis, qui, pour la recommandation de ma
+pièce, ne m'auraient pas refusé ou des vers français, ou des vers
+latins. j'en ai même qui m'auraient loué en grec ; et l'on n'ignore
+pas qu'une louange en grec est d'une merveilleuse efficace à la tête
+d'un livre. Mais on me met au jour sans me donner le loisir de me
+reconnaître ; et je ne puis même obtenir la liberté de dire deux mots
+pour justifier mes intentions sur le sujet de cette comédie. j'aurais
+voulu faire voir qu'elle se tient partout dans les bornes de la satire
+honnête et permise ; que les plus excellentes choses sont sujettes à
+être copiées par de mauvais singes qui méritent d'être bernés ; que
+ces vicieuses imitations de ce qu'il y a de plus parfait ont été de
+tout temps la matière de la comédie, et que, par la même raison que
+les véritables savants et les vrais braves ne se sont point encore
+avisés de s'offenser du Docteur de la comédie, et du Capitan, non plus
+que les juges, les princes et les rois de voir Trivelin (2), ou
+quelque autre, sur le théâtre, faire ridiculement le juge, le prince,
+ou le roi ; aussi les véritables précieuses auraient tort de se piquer
+lorsqu'on joue les ridicules qui les imitent mal. Mais enfin, comme
+j'ai dit, on ne me laisse pas le temps de respirer, et M. de Luynes (3)
+veut m'aller faire relier de ce pas : à la bonne heure, puisque Dieu
+l'a voulu.
+
+
+-----------
+
+(1) Molière fait allusion à ce proverbe : "Elle est belle à la
+chandelle, mais le grand jour gâte tout."
+
+
+-----------
+
+
+(2) Le "Docteur", le "Capitan" et "Trivelin", étaient trois
+personnages ou caractères appartenant à la farce italienne.
+
+
+-----------
+
+
+(3) Ce de Luynes était un libraire qui avait sa boutique dans la
+galerie du Palais.
+
+
+-----------
+
+
+
+
+
+-------------------------------------------------------------------------
+
+
+
+
+
+
+LES PRÉCIEUSES RIDICULES
+
+
+
+
+Comédie (1659).
+
+
+
+PERSONNAGES                                        ACTEURS
+
+La Grange,                                         La Grange.
+Du Croisy, amants rebutés.                         Du Croisy.
+Gorgibus, bon bourgeois.                           L'Espy.
+Madelon, fille de Gorgibus,                        Mlle De Brie.
+Cathos, nièce de Gorgibus, précieuses ridicules.   Mlle Du Parc.
+Marotte, servante des précieuses ridicules.        Madel. Béjart.
+Almanzor, laquais des précieuses ridicules.        De Brie.
+Le Marquis de Mascarille, valet de la Grange.      Molière.
+Le Vicomte de Jodelet, valet de du Croisy.         Brécourt.
+Deux porteurs de chaise.
+Voisines.
+Violons.
+
+
+
+La scène à Paris, dans la maison de Gorgibus.
+
+
+SCÈNE PREMIÈRE. - La Grange, Du Croisy.
+
+
+- Du Croisy -
+
+Seigneur la Grange...
+
+- La Grange -
+
+Quoi ?
+
+- Du Croisy -
+
+Regardez-moi un peu sans rire.
+
+- La Grange -
+
+Eh bien ?
+
+- Du Croisy -
+
+Que dites-vous de notre visite ? En êtes-vous fort satisfait ?
+
+- La Grange -
+
+A votre avis, avons-nous sujet de l'être tous deux ?
+
+- Du Croisy -
+
+Pas tout à fait, à dire vrai.
+
+- La Grange -
+
+Pour moi, je vous avoue que j'en suis tout scandalisé. A-t-on jamais
+vu, dites-moi, deux pecques (1) provinciales faire plus les renchéries
+que celles-là, et deux hommes traités avec plus de mépris que nous ?
+A peine ont-elles pu se résoudre à nous faire donner des sièges. Je n'ai
+jamais vu tant parler à l'oreille qu'elles ont fait entre elles, tant
+baîller, tant se frotter les yeux, et demander tant de fois : Quelle
+heure est-il ? Ont-elles répondu que Oui et Non à tout ce que nous
+avons pu leur dire ? Et ne m'avouerez-vous pas enfin que, quand nous
+aurions été les dernières personnes du monde, on ne pouvait nous faire
+pis qu'elles ont fait ?
+
+- Du Croisy -
+
+Il me semble que vous prenez la chose fort à coeur.
+
+- La Grange -
+
+Sans doute, je l'y prends, et de telle façon, que je me veux venger de
+cette impertinence. Je connais ce qui nous a fait mépriser. L'air
+précieux n'a pas seulement infecté Paris, il s'est aussi répandu dans
+les provinces, et nos donzelles ridicules en ont humé leur bonne
+part. En un mot, c'est un ambigu (2) de précieuse et de coquette que
+leur personne. Je vois ce qu'il faut être pour en être bien reçu ; et,
+si vous m'en croyez, nous leur jouerons tous deux une pièce qui leur
+fera voir leur sottise, et pourra leur apprendre à connaître un peu
+mieux leur monde.
+
+- Du Croisy -
+
+Et comment, encore ?
+
+- La Grange -
+
+J'ai un certain valet, nommé Mascarille, qui passe au sentiment de
+beaucoup de gens, pour une manière de bel esprit, car il n't a rien de
+meilleur marché que le bel esprit maintenant. C'est un extravagant qui
+s'est mis en tête de vouloir faire l'homme de condition. Il se pique
+ordinairement de galanterie et de vers, et dédaigne les autres valets,
+jusqu'à les appeler brutaux.
+
+- Du Croisy -
+
+Eh bien ! qu'en prétendez-vous faire ?
+
+- La Grange -
+
+Ce que j'en prétends faire ? Il faut... Mais sortons d'ici auparavant.
+
+
+
+-----------
+
+
+SCÈNE II. - Gorgibus (3), Du Croisy, La Grange.
+
+
+- Gorgibus -
+
+Eh bien ! vous avez vu ma nièce et ma fille ? Les affaires iront-elles
+bien ? Quel est le résultat de cette visite ?
+
+- La Grange -
+
+C'est une chose que vous pourrez mieux apprendre d'elles que de nous.
+Tout ce que nous pouvons vous dire, c'est que nous vous rendons grâce
+de la faveur que vous nous avez faite, et demeurons vos très humbles
+serviteurs.
+
+- Du Croisy -
+
+Vos très humbles serviteurs.
+
+- Gorgibus -
+
+          (seul.)
+
+Ouais ! il semble qu'ils sortent mal satisfaits d'ici. D'où pourrait
+venir leur mécontentement ? Il faut savoir un peu ce que c'est. Holà !
+
+
+
+-----------
+
+
+SCÈNE III. - Gorgibus, Marotte.
+
+
+- Marotte -
+
+Que désirez-vous, Monsieur ?
+
+- Gorgibus -
+
+Où sont vos maîtresses ?
+
+- Marotte -
+
+Dans leur cabinet.
+
+- Gorgibus -
+
+Que font-elles ?
+
+- Marotte -
+
+De la pommade pour les lèvres.
+
+- Gorgibus -
+
+C'est trop pommadé. Dites-leur qu'elles descendent.
+
+
+
+-----------
+
+
+SCÈNE IV. - Gorgibus.
+
+
+- Gorgibus -
+
+Ces pendardes-là, avec leur pommade, ont, je pense, envie de me
+ruiner. Je ne vois partout que blancs d'oeufs, lait virginal, et mille
+autres brimborions que je ne connais point. Elles ont usé, depuis que
+nous sommes ici, le lard d'une douzaine de cochons, pour le moins ; et
+quatre valets vivraient tous les jours des pieds de mouton qu'elles
+emploient.
+
+
+
+-----------
+
+
+SCÈNE V. - Madelon, Cathos, Gorgibus.
+
+
+- Gorgibus -
+
+Il est bien nécessaire, vraiment, de faire tant de dépense pour vous
+graisser le museau ! Dites-moi un peu ce que vous avez fait à ces
+messieurs, que je les vois sortir avec tant de froideur ? Vous
+avais-je pas commandé de les recevoir comme des personnes que je
+voulais vous donner pour maris ?
+
+- Madelon -
+
+Et quelle estime, mon père, voulez-vous que nous fassions du procédé
+irrégulier de ces gens-là ?
+
+- Cathos -
+
+Le moyen, mon oncle, qu'une fille un peu raisonnable se pût accommoder
+de leur personne ?
+
+- Gorgibus -
+
+Et qu'y trouvez-vous à redire ?
+
+- Madelon -
+
+La belle galanterie que la leur ! Quoi ! débuter d'abord par le
+mariage ?
+
+- Gorgibus -
+
+Et par où veux-tu donc qu'ils débutent ? par le concubinage ? N'est-ce
+pas un procédé dont vous avez sujet de vous louer toutes deux, aussi
+bien que moi ? Est-il rien de plus obligeant que cela ? Et ce lien
+sacré où ils aspirent n'est-il pas un témoignage de l'honnêteté de
+leurs intentions ?
+
+- Madelon -
+
+Ah ! mon père, ce que vous dites là est du dernier bourgeois. Cela me
+fait honte de vous ouïr parler de la sorte, et vous devriez un peu
+vous faire apprendre le bel air des choses.
+
+- Gorgibus -
+
+Je n'ai que faire ni d'air ni de chanson. Je te dis que le mariage est
+une chose sainte et sacrée, et que c'est faire en honnêtes gens que de
+débuter par là.
+
+- Madelon -
+
+Mon Dieu ! que si tout le monde vous ressemblait, un roman serait
+bientôt fini ! La belle chose que ce serait, si d'abord Cyrus épousait
+Mandane, et qu'Aronce de plain-pied fût marié à Clélie (4) !
+
+- Gorgibus -
+
+Que me vient conter celle-ci ?
+
+- Madelon -
+
+Mon père, voilà ma cousine qui vous dira aussi bien que moi que le
+mariage ne doit jamais arriver qu'après les autres aventures. Il faut
+qu'un amant, pour être agréable, sache débiter les beaux sentiments,
+pousser le doux, le tendre et le passionné (5), et que sa recherche
+soit dans les formes. Premièrement, il doit voir au temple, ou à la
+promenade, ou dans quelque cérémonie publique, la personne dont il
+devient amoureux ; ou bien être conduit fatalement chez elle par un
+parent ou un ami, et sortir de là tout rêveur et mélancolique. Il
+cache un temps sa passion à l'objet aimé, et cependant lui rend
+plusieurs visites, où l'on ne manque jamais de mettre sur le tapis une
+question galante qui exerce les esprits de l'assemblée. Le jour de la
+déclaration arrive, qui se doit faire ordinairement dans une allée de
+quelque jardin, tandis que la compagnie s'est un peu éloignée : et
+cette déclaration est suivie d'un prompt courroux, qui paraît à notre
+rougeur, et qui, pour un temps, bannit l'amant de notre présence.
+Ensuite il trouve moyen de nous apaiser, de nous accoutumer
+insensiblement au discours de sa passion, et de tirer de nous cet aveu
+qui fait tant de peine. Après cela viennent les aventures, les rivaux
+qui se jettent à la traverse d'une inclination établie, les
+persécutions des pères, les jalousies conçues sur de fausses
+apparences, les plaintes, les désespoirs, les enlèvements, et ce qui
+s'ensuit. Voilà comme les choses se traitent dans les belles manières,
+et ce sont des règles dont, en bonne galanterie, on ne saurait se
+dispenser. Mais en venir de but en blanc à l'union conjugale, ne faire
+l'amour qu'en faisant le contrat du mariage, et prendre justement le
+roman par la queue ; encore un coup, mon père, il ne se peut rien de
+plus marchand que ce procédé ; et j'ai mal au coeur de la seule vision
+que cela me fait.
+
+- Gorgibus -
+
+Quel diable de jargon entends-je ici ? Voici bien du haut style.
+
+- Cathos -
+
+En effet, mon oncle, ma cousine donne dans le vrai de la chose. Le
+moyen de bien recevoir des gens qui sont tout à fait incongrus en
+galanterie ! Je m'en vais gager qu'ils n'ont jamais vu la carte de
+Tendre, et que Billets-Doux, Petits-Soins, Billets-Galants et
+Jolis-Vers sont des terres inconnues pour eux (6). Ne voyez-vous pas
+que toute leur personne marque cela, et qu'ils n'ont point cet air qui
+donne d'abord bonne opinion des gens ? Venir en visite amoureuse avec
+une jambe toute unie, un chapeau désarmé de plumes, une tête
+irrégulière en cheveux, et un habit qui souffre une indigence de
+rubans ; mon Dieu, quels amants sont-ce là ! Quelle frugalité
+d'ajustements, et quelle sécheresse de conversation ! On n'y dure
+point, on n'y tient pas. J'ai remarqué encore que leurs rabats (7) ne
+sont pas de la bonne faiseuse, et qu'il s'en faut plus d'un grand
+demi-pied que leurs hauts-de-chausses ne soient assez larges.
+
+- Gorgibus -
+
+Je pense qu'elles sont folles toutes deux, et je ne puis rien
+comprendre à ce baragouin. Cathos, et vous, Madelon...
+
+- Madelon -
+
+Eh ! de grâce, mon père, défaites-vous de ces noms étranges et nous
+appelez autrement.
+
+- Gorgibus -
+
+Comment, ces noms étranges ? Ne sont-ce pas vos noms de baptême ?
+
+- Madelon -
+
+Mon Dieu, que vous êtes vulgaire ! Pour moi, un de mes étonnements,
+c'est que vous ayez pu faire une fille si spirituelle que moi. A-t-on
+jamais parlé, dans le beau style, de Cathos ni de Madelon, et ne
+m'avouerez-vous pas que ce serait assez d'un de ces noms pour décrier
+le plus beau roman du monde ?
+
+- Cathos -
+
+Il est vrai, mon oncle, qu'une oreille un peu délicate pâtit
+furieusement à entendre prononcer ces mots-là ; et le nom de Polyxène
+que ma cousine a choisi, et celui d'Aminte que je me suis donné, ont
+une grâce dont il faut que vous demeuriez d'accord.
+
+- Gorgibus -
+
+Ecoutez, il n'y a qu'un mot qui serve. Je n'entends point que vous
+ayez d'autres noms que ceux qui vous ont été donnés par vos parrains
+et marraines ; et pour ces messieurs dont il est question, je connais
+leurs familles et leurs biens, et je veux résolument que vous vous
+disposiez à les recevoir pour maris. Je me lasse de vous avoir sur les
+bras, et la garde de deux filles est une charge un peu trop pesante
+pour un homme de mon âge.
+
+- Cathos -
+
+Pour moi, mon oncle, tout ce que je vous puis dire, c'est que je
+trouve le mariage une chose tout à fait choquante. Comment est-ce
+qu'on peut souffrir la pensée de coucher contre un homme vraiment nu ?
+
+- Madelon -
+
+Souffrez que nous prenions un peu haleine parmi le beau monde de
+Paris, où nous ne faisons que d'arriver. Laissez-nous faire à loisir
+le tissu de notre roman, et n'en pressez point tant la conclusion.
+
+- Gorgibus -
+
+          (à part.)
+
+Il n'en faut point douter, elles sont achevées.
+
+          (Haut.)
+
+Encore un coup, je n'entends rien à toutes ces balivernes : je veux
+être maître absolu : et pour trancher toutes sortes de discours, ou
+vous serez mariées toutes deux avant qu'il soit peu, ou, ma foi, vous
+serez religieuses ; j'en fais un bon serment.
+
+
+
+-----------
+
+
+SCÈNE VI. - Cathos, Madelon.
+
+
+- Cathos -
+
+Mon Dieu, ma chère, que ton père a la forme enfoncée dans la matière !
+que son intelligence est épaisse, et qu'il fait sombre dans son âme !
+
+- Madelon -
+
+Que veux-tu, ma chère ? J'en suis en confusion pour lui. J'ai peine à
+me persuader que je puisse être véritablement sa fille, et je crois
+que quelque aventure un jour me viendra développer une naissance plus
+illustre.
+
+- Cathos -
+
+Je le croirais bien ; oui, il y a toutes les apparences du monde ; et,
+pour moi, quand je me regarde aussi...
+
+
+
+-----------
+
+
+SCÈNE VII. - Cathos, Madelon, Marotte.
+
+
+- Marotte -
+
+Voilà un laquais qui demande si vous êtes au logis, et dit que son
+maître vous veut venir voir.
+
+- Madelon -
+
+Apprenez, sotte, à vous énoncer moins vulgairement. Dites : Voilà un
+nécessaire qui demande si vous êtes en commodité d'être visibles.
+
+- Marotte -
+
+Dame ! je n'entends point le latin : et je n'ai pas appris comme vous,
+la filophie dans le grand Cyre.
+
+- Madelon -
+
+L'impertinente ! Le moyen de souffrir cela ! Et qui est-il le maître
+de ce laquais ?
+
+- Marotte -
+
+Il me l'a nommé le marquis de Mascarille.
+
+- Madelon -
+
+Ah ! ma chère, un marquis ! un marquis ! Oui, allez dire qu'on nous
+peut voir. C'est sans doute un bel esprit qui aura ouï parler de nous.
+
+- Cathos -
+
+Assurément, ma chère.
+
+- Madelon -
+
+Il faut le recevoir dans cette salle basse, plutôt qu'en notre
+chambre. Ajustons un peu nos cheveux au moins, et soutenons notre
+réputation. Vite, venez nous tendre ici dedans le conseiller des
+grâces.
+
+- Marotte -
+
+Par ma foi ! je ne sais point quelle bête c'est là ; il faut parler
+chrétien (8), si vous voulez que je vous entende.
+
+- Cathos -
+
+Apportez-nous le miroir, ignorante que vous êtes, et gardez-vous bien
+d'en salir la glace par la communication de votre image.
+
+          (Elles sortent.)
+
+
+
+-----------
+
+
+SCÈNE VIII. - Mascarille, deux porteurs.
+
+
+- Mascarille -
+
+Holà ! porteurs, holà ! Là, là, là, là, là, là. Je pense que ces
+marauds-là ont dessein de me briser, à force de heurter contre les
+murailles et les pavés.
+
+- Premier porteur -
+
+Dame ! c'est que la porte est étroite. Vous avez voulu aussi que nous
+soyons entrés jusqu'ici.
+
+- Mascarille -
+
+Je le crois bien. Voudriez-vous, faquins, que j'exposasse l'embonpoint
+de mes plumes aux inclémences de la saison pluvieuse, et que j'allasse
+imprimer mes souliers en boue ? Allez, ôtez votre chaise d'ici.
+
+- Deuxième porteur -
+
+Payez-nous donc, s'il vous plaît, Monsieur.
+
+- Mascarille -
+
+Hein !
+
+- Deuxième porteur -
+
+Je dis, Monsieur, que vous nous donniez de l'argent, s'il vous plaît.
+
+- Mascarille -
+
+          (lui donnant un soufflet.)
+
+Comment, coquin ! demander de l'argent à une personne de ma qualité !
+
+- Deuxième porteur -
+
+Est-ce ainsi qu'on paye les pauvres gens ? et votre qualité nous
+donne-t-elle à dîner ?
+
+- Mascarille -
+
+Ah ! ah ! je vous apprendrai à vous connaître ! Ces canailles-là
+s'osent jouer à moi.
+
+- Premier porteur -
+
+          (Prenant un des bâtons de sa chaise.)
+
+Cà, payez-nous vitement.
+
+- Mascarille -
+
+Quoi ?
+
+- Premier porteur -
+
+Je dis que je veux avoir de l'argent tout à l'heure.
+
+- Mascarille -
+
+Il est raisonnable, celui-là.
+
+- Premier porteur -
+
+Vite donc !
+
+- Mascarille -
+
+Oui-da ! Tu parles comme il faut, toi ; mais l'autre est un coquin qui
+ne sait ce qu'il dit. Tiens, es-tu content ?
+
+- Premier porteur -
+
+Non, je ne suis pas content : vous avez donné un
+soufflet à mon camarade, et...
+
+          (Levant son bâton.)
+
+- Mascarille -
+
+Doucement ! Tiens, voilà pour le soufflet. On obtient tout de moi
+quand on s'y prend de la bonne façon. Allez, venez me reprendre tantôt
+pour aller au Louvre, au petit coucher.
+
+
+
+-----------
+
+
+SCÈNE IX. - Marotte, Mascarille.
+
+
+- Marotte -
+
+Monsieur, voilà mes maîtresses qui vont venir tout à l'heure.
+
+- Mascarille -
+
+Qu'elles ne se pressent point : je suis ici posté commodément pour
+attendre.
+
+- Marotte -
+
+Les voici.
+
+
+
+-----------
+
+
+SCÈNE X. - Madelon, Cathos, Mascarille, Almanzor.
+
+
+- Mascarille -
+
+          (après avoir salué.)
+
+Mesdames, vous serez surprises sans doute de l'audace de ma visite ;
+mais votre réputation vous attire cette méchante affaire, et le mérite
+a pour moi des charmes si puissants, que je cours partout après lui.
+
+- Madelon -
+
+Si vous poursuivez le mérite, ce n'est pas sur nos terres que vous
+devez chasser.
+
+- Cathos -
+
+Pour voir chez nous le mérite, il a fallu que vous l'y ayez amené.
+
+- Mascarille -
+
+Ah ! je m'inscris en faux contre vos paroles. La renommée accuse juste
+en contant ce que vous valez ; et vous allez faire pic, repic et capot
+tout ce qu'il y a de galant dans Paris.
+
+- Madelon -
+
+Votre complaisance pousse un peu trop avant la libéralité de ses
+louanges ; et nous n'avons garde, ma cousine et moi, de donner de
+notre sérieux dans le doux de votre flatterie.
+
+- Cathos -
+
+Ma chère, il faudrait faire donner des sièges.
+
+- Madelon -
+
+Holà ! Almanzor.
+
+- Almanzor -
+
+Madame ?
+
+- Madelon -
+
+Vite, voiturez-nous ici les commodités de la conversation.
+
+- Mascarille -
+
+Mais, au moins, y a-t-il sûreté ici pour moi ?
+
+          (Almanzor sort.)
+
+- Cathos -
+
+Que craignez-vous ?
+
+- Mascarille -
+
+Quelque vol de mon coeur, quelque assassinat de ma franchise. Je vois
+ici des yeux qui ont la mine d'être de fort mauvais garçons, de faire
+insulte aux libertés, et de traiter une âme de Turc à More (9).
+Comment, diable ! d'abord qu'on les approche, ils se mettent sur leur
+garde meurtrière. Ah ! par ma foi, je m'en défie ! et je m'en vais
+gagner au pied, ou je veux caution bourgeoise (10) qu'ils ne me feront
+point de mal.
+
+- Madelon -
+
+Ma chère, c'est le caractère enjoué.
+
+- Cathos -
+
+Je vois bien que c'est un Amilcar (11).
+
+- Madelon -
+
+Ne craignez rien : nos yeux n'ont point de mauvais desseins, et votre
+coeur peut dormir en assurance sur leur prud'homie.
+
+- Cathos -
+
+Mais de grâce, Monsieur, ne soyez pas inexorable à ce fauteuil qui
+vous tend les bras il y a un quart d'heure ; contentez un peu l'envie
+qu'il a de vous embrasser.
+
+- Mascarille -
+
+          (après s'être peigné et avoir ajusté ses canons.)
+
+Eh bien, Mesdames, que dites-vous de Paris ?
+
+- Madelon -
+
+Hélas ! qu'en pourrions-nous dire ? Il faudrait être l'antipode de la
+raison, pour ne pas confesser que Paris est le grand bureau des
+merveilles, le centre du bon goût, du bel esprit, et de la galanterie.
+
+- Mascarille -
+
+Pour moi, je tiens que hors de Paris il n'y a point de salut pour les
+honnêtes gens.
+
+- Cathos -
+
+C'est une vérité incontestable.
+
+- Mascarille -
+
+Il y fait un peu crotté ; mais nous avons la chaise.
+
+- Madelon -
+
+Il est vrai que la chaise est un retranchement merveilleux contre les
+insultes de la boue et du mauvais temps.
+
+- Mascarille -
+
+Vous recevez beaucoup de visites ? Quel bel esprit est des vôtres ?
+
+- Madelon -
+
+Hélas ! nous ne sommes pas encore connues ; mais nous sommes en passe
+de l'être ; et nous avons une amie particulière qui nous a promis
+d'amener ici tous ces messieurs du Recueil des pièces choisies.
+
+- Cathos -
+
+Et certains autres qu'on nous a nommés aussi pour être les arbitres
+souverains des belles choses.
+
+- Mascarille -
+
+C'est moi qui ferai votre affaire mieux que personne ; ils me rendent
+tous visite ; et je puis dire que je ne me lève jamais sans une
+demi-douzaine de beaux esprits.
+
+- Madelon -
+
+Eh ! mon Dieu ! nous vous serons obligées de la dernière obligation,
+si vous nous faites cette amitié ; car enfin il faut avoir la
+connaissance de tous ces messieurs-là, si l'on veut être du beau
+monde. Ce sont ceux qui donnent le branle à la réputation dans Paris ;
+et vous savez qu'il y en a tel dont il ne faut que la seule
+fréquentation pour vous donner bruit de connaisseuse, quand il n'y
+aurait rien autre chose que cela. Mais, pour moi, ce que je considère
+particulièrement, c'est que, par le moyen de ces visites spirituelles,
+on est instruite de cent choses qu'il faut savoir de nécessité, et qui
+sont de l'essence d'un bel esprit. On apprend par là chaque jour les
+petites nouvelles galantes, les jolies commerces de prose et de vers.
+On sait à point nommé : Un tel a composé la plus jolie pièce du monde
+sur un tel sujet ; une telle a fait des paroles sur un tel air ;
+celui-ci a fait un madrigal sur une jouissance ; celui-là a composé
+des stances sur une infidélité ; monsieur un tel écrivit hier au soir
+un sixain à Mademoiselle une telle, dont elle lui a envoyé la réponse
+ce matin sur les huit heures ; un tel auteur a fait un tel dessein ;
+celui-là en est à la troisième partie de son roman ; cet autre met ses
+ouvrages sous la presse. C'est là ce qui vous fait valoir dans les
+compagnies, et si l'on ignore ces choses, je ne donnerais pas un clou
+de tout l'esprit qu'on peut avoir.
+
+- Cathos -
+
+En effet, je trouve que c'est renchérir sur le ridicule, qu'une
+personne se pique d'esprit, et ne sache pas jusqu'au moindre petit
+quatrain qui se fait chaque jour ; et pour moi, j'aurais toutes les
+hontes du monde, s'il fallait qu'on vînt à me demander si j'aurais vu
+quelque chose de nouveau que je n'aurais pas vu.
+
+- Mascarille -
+
+Il est vrai qu'il est honteux de n'avoir pas des premiers tout ce qui
+se fait ; mais ne vous mettez pas en peine : je veux établir chez vous
+une académie de beaux esprits, et je vous promets qu'il ne se fera pas
+un bout de vers dans Paris, que vous ne sachiez par coeur avant tous
+les autres. Pour moi, tel que vous me voyez, je m'en escrime un peu
+quand je veux ; et vous verrez courir de ma façon dans les belles
+ruelles (12) de Paris, deux cents chansons, autant de sonnets, quatre
+cents épigrammes et plus de mille madrigaux, sans compter les énigmes
+et les portraits.
+
+- Madelon -
+
+Je vous avoue que je suis furieusement pour les portraits : je ne vois
+rien de si galant que cela.
+
+- Mascarille -
+
+Les portraits sont difficiles, et demandent un esprit profond : vous
+en verrez de ma manière qui ne vous déplairont pas.
+
+- Cathos -
+
+Pour moi, j'aime terriblement les énigmes.
+
+- Mascarille -
+
+Cela exerce l'esprit, et j'en ai fait quatre encore ce matin, que je
+vous donnerai à deviner.
+
+- Madelon -
+
+Les madrigaux sont agréables, quand ils sont bien tournés.
+
+- Mascarille -
+
+C'est mon talent particulier ; et je travaille à mettre en madrigaux
+toute l'histoire romaine.
+
+- Madelon -
+
+Ah ! certes, cela sera du dernier beau : j'en retiens un exemplaire au
+moins, si vous le faites imprimer.
+
+- Mascarille -
+
+Je vous en promets à chacune un, et des mieux reliés.  Cela est
+au-dessous de ma condition ; mais je le fais seulement pour donner à
+gagner aux libraires, qui me persécutent.
+
+- Madelon -
+
+Je m'imagine que le plaisir est grand de se voir imprimé.
+
+- Mascarille -
+
+Sans doute. Mais, à propos, il faut que je vous die un impromptu que je
+fis hier chez une duchesse de mes amies que je fus visiter ; car je
+suis diablement fort sur les impromptus.
+
+- Cathos -
+
+L'impromptu est justement la pierre de touche de l'esprit.
+
+- Mascarille -
+
+Ecoutez donc.
+
+- Madelon -
+
+Nous y sommes de toutes nos oreilles.
+
+- Mascarille -
+
+	Oh ! oh ! je n'y prenais pas garde :
+	tandis que, sans songer à mal, je vous regarde,
+	votre oeil en tapinois me dérobe mon coeur ;
+	Au voleur ! au voleur ! au voleur ! au voleur !
+
+- Cathos -
+
+Ah ! mon Dieu, voilà qui est poussé dans le dernier galant.
+
+- Mascarille -
+
+Tout ce que je fais a l'air cavalier ; cela ne sent point le pédant.
+
+- Madelon -
+
+Il en est éloigné de plus de deux mille lieues.
+
+- Mascarille -
+
+Avez-vous remarqué ce commencement : "Oh ! oh !" voilà qui est
+extraordinaire : "oh ! oh !" Comme un homme qui s'avise tout d'un coup,
+"oh ! oh !" La surprise, "oh ! oh !"
+
+- Madelon -
+
+Oui, je trouve ce "oh ! oh !" admirable.
+
+- Mascarille -
+
+Il semble que cela ne soit rien.
+
+- Cathos -
+
+Ah ! mon Dieu, que dites-vous ? Ce sont là de ces sortes de choses qui
+ne se peuvent payer.
+
+- Madelon -
+
+Sans doute ; et j'aimerais mieux avoir fait ce "oh ! oh !" qu'un poème
+épique.
+
+- Mascarille -
+
+Tudieu ! vous avez le goût bon.
+
+- Madelon -
+
+Hé ! je ne l'ai pas tout à fait mauvais.
+
+- Mascarille -
+
+Mais n'admirez-vous pas aussi "je n'y prenais pas garde " ?  "Je n'y
+prenais pas garde", je ne m'apercevais pas de cela : façon de parler
+naturelle : "je n'y prenais pas garde". "Tandis que, sans songer à
+mal", tandis qu'innocemment, sans malice, comme un pauvre mouton ; "je
+vous regarde", c'est-à-dire, je m'amuse à vous considérer, je vous
+observe, je vous contemple ; "votre oeil en tapinois..." Que vous
+semble de ce mot "tapinois" ? n'est-il pas bien choisi ?
+
+- Cathos -
+
+Tout à fait bien.
+
+- Mascarille -
+
+"Tapinois", en cachette ; il semble que ce soit un chat qui vienne de
+prendre une souris : "tapinois".
+
+- Madelon -
+
+Il ne se peut rien de mieux.
+
+- Mascarille -
+
+"Me dérobe mon coeur", me l'emporte, me le ravit. "Au voleur ! au
+voleur ! au voleur ! au voleur !" Ne diriez-vous pas que c'est un homme
+qui crie et court après un voleur pour le faire arrêter ? "Au voleur !
+au voleur ! au voleur ! au voleur !"
+
+- Madelon -
+
+Il faut avouer que cela a un tour spirituel et galant.
+
+- Mascarille -
+
+Je veux vous dire l'air que j'ai fait dessus.
+
+- Cathos -
+
+Vous avez appris la musique ?
+
+- Mascarille -
+
+Moi ? Point du tout.
+
+- Cathos -
+
+Et comment donc cela se peut-il ?
+
+- Mascarille -
+
+Les gens de qualité savent tout sans avoir jamais rien appris.
+
+- Madelon -
+
+Assurément, ma chère.
+
+- Mascarille -
+
+Ecoutez si vous trouverez l'air à votre goût. "Hem, hem, la, la, la,
+la, la". La brutalité de la saison a furieusement outragé la
+délicatesse de ma voix ; mais il n'importe, c'est à la cavalière.
+
+          (Il chante.)
+
+	Oh ! oh ! je n'y prenais pas garde, etc.
+
+- Cathos -
+
+Ah ! que voilà un air qui est passionné ! Est-ce qu'on n'en meurt
+point ?
+
+- Madelon -
+
+Il y a de la chromatique là dedans.
+
+- Mascarille -
+
+Ne trouvez-vous pas la pensée bien exprimée dans le chant ? "Au voleur !
+au voleur !" Et puis, comme si l'on criait bien fort : "au, au, au,
+au, au, voleur !" Et tout d'un coup, comme une personne essoufflée :
+"au voleur !"
+
+- Madelon -
+
+C'est là savoir le fin des choses, le grand fin, le fin du fin. Tout
+est merveilleux, je vous assure ; je suis enthousiasmée de l'air et
+des paroles.
+
+- Cathos -
+
+Je n'ai encore rien vu de cette force-là.
+
+- Mascarille -
+
+Tout ce que je fais me vient naturellement, c'est sans étude.
+
+- Madelon -
+
+La nature vous a traité en vraie mère passionnée, et vous en êtes
+l'enfant gâté.
+
+- Mascarille -
+
+A quoi donc passez-vous le temps, Mesdames ?
+
+- Cathos -
+
+A rien du tout.
+
+- Madelon -
+
+Nous avons été jusqu'ici dans un jeûne effroyable de divertissements.
+
+- Mascarille -
+
+Je m'offre à vous mener l'un de ces jours à la comédie, si vous voulez ;
+aussi bien, on en doit jouer une nouvelle que je serai bien aise que
+nous voyions ensemble.
+
+- Madelon -
+
+Cela n'est pas de refus.
+
+- Mascarille -
+
+Mais je vous demande d'applaudir comme il faut, quand nous serons là ;
+car je me suis engagé de faire valoir la pièce, et l'auteur m'en est
+venu prier encore ce matin. C'est la coutume ici qu'à nous autres gens
+de condition les auteurs viennent lire leurs pièces nouvelles, pour
+nous engager à les trouver belles, et leur donner de la réputation ;
+et je vous laisse à penser si, quand nous disons quelque chose, le
+parterre ose nous contredire ! Pour moi, j'y suis fort exact ; et quand
+j'ai promis à quelque poète, je crie toujours : Voilà qui est beau !
+devant que les chandelles soient allumées.
+
+- Madelon -
+
+Ne m'en parlez point : c'est un admirable lieu que Paris ; il s'y
+passe cent choses tous les jours, qu'on ignore dans les provinces,
+quelque spirituelle qu'on puisse être.
+
+- Cathos -
+
+C'est assez : puisque nous sommes instruites, nous ferons notre devoir
+de nous écrier comme il faut sur tout ce qu'on dira.
+
+- Mascarille -
+
+Je ne sais si je me trompe, mais vous avez toute la mine d'avoir fait
+quelque comédie.
+
+- Madelon -
+
+Hé ! il pourrait être quelque chose de ce que vous dites.
+
+- Mascarille -
+
+Ah ! ma foi ! il faudra que nous la voyions. Entre nous, j'en ai
+composé une que je veux faire représenter.
+
+- Cathos -
+
+Et à quels comédiens la donnerez-vous ?
+
+- Mascarille -
+
+Belle demande ! Aux grands comédiens ; il n'y a qu'eux qui soient
+capables de faire valoir les choses ; les autres sont des ignorants
+qui récitent comme l'on parle ; il ne savent pas faire ronfler les
+vers, et s'arrêter au bel endroit : eh ! le moyen de connaître où est
+le beau vers, si le comédien ne s'y arrête, et ne vous avertit par là
+qu'il faut faire le brouhaha ?
+
+- Cathos -
+
+En effet, il y a manière de faire sentir aux auditeurs les beautés
+d'un ouvrage ; et les choses ne valent que ce qu'on les fait valoir.
+
+- Mascarille -
+
+Que vous semble de ma petite oie (13) ? La trouvez-vous congruente à
+l'habit ?
+
+- Cathos -
+
+Tout à fait.
+
+- Mascarille -
+
+Le ruban en est-il bien choisi ?
+
+- Madelon -
+
+Furieusement bien. C'est Perdrigeon tout pur (14).
+
+- Mascarille -
+
+Que dites-vous de mes canons (15) ?
+
+- Madelon -
+
+Ils ont tout à fait bon air.
+
+- Mascarille -
+
+Je puis me vanter au moins qu'ils ont un grand quartier de plus que
+ceux qu'on fait.
+
+- Madelon -
+
+Il faut avouer que je n'ai jamais vu porter si haut l'élégance de
+l'ajustement.
+
+- Mascarille -
+
+Attachez un peu sur ces gants la réflexion de votre odorat.
+
+- Madelon -
+
+Ils sentent terriblement bon.
+
+- Cathos -
+
+Je n'ai jamais respiré une odeur mieux conditionnée.
+
+- Mascarille -
+
+Et celle-là ?
+
+          (Il donne à sentir les cheveux poudrés de sa perruque.)
+
+- Madelon -
+
+Elle est tout à fait de qualité ; le sublime en est touché
+délicieusement.
+
+- Mascarille -
+
+Vous ne me dites rien de mes plumes ! Comment les trouvez-vous ?
+
+- Cathos -
+
+Effroyablement belles.
+
+- Mascarille -
+
+Savez-vous que le brin me coûte un louis d'or ? Pour moi, j'ai cette
+manie de vouloir donner généralement sur tout ce qu'il y a de plus
+beau.
+
+- Madelon -
+
+Je vous assure que nous sympathisons vous et moi. J'ai une délicatesse
+furieuse pour tout ce que je porte ; et, jusqu'à mes chaussettes, je ne
+puis rien souffrir qui ne soit de la bonne faiseuse.
+
+- Mascarille -
+
+          (s'écriant brusquement.)
+
+Ahi ! ahi ! ahi ! doucement. Dieu me damne, Mesdames, c'est fort mal
+en user ; j'ai à me plaindre de votre procédé ; cela n'est pas honnête.
+
+- Cathos -
+
+Qu'est-ce donc ? qu'avez-vous ?
+
+- Mascarille -
+
+Quoi ! toutes deux contre mon coeur en même temps ! M'attaquer à droite
+et à gauche ! Ah ! c'est contre le droit des gens ; la partie n'est pas
+égale, et je m'en vais crier au meurtre.
+
+- Cathos -
+
+Il faut avouer qu'il dit les choses d'une manière particulière.
+
+- Madelon -
+
+Il a un tour admirable dans l'esprit.
+
+- Cathos -
+
+Vous avez plus de peur que de mal, et votre coeur crie avant qu'on
+l'écorche.
+
+- Mascarille -
+
+Comment, diable ! il est écorché depuis la tête jusqu'aux pieds.
+
+
+
+-----------
+
+
+SCÈNE XI. - Cathos, Madelon, Mascarille, Marotte.
+
+
+- Marotte -
+
+Madame, on demande à vous voir.
+
+- Madelon -
+
+Qui ?
+
+- Marotte -
+
+Le vicomte de Jodelet.
+
+- Mascarille -
+
+Le vicomte de Jodelet ?
+
+- Marotte -
+
+Oui, Monsieur.
+
+- Cathos -
+
+Le connaissez-vous ?
+
+- Mascarille -
+
+C'est mon meilleur ami.
+
+- Madelon -
+
+Faites entrer vitement.
+
+- Mascarille -
+
+Il y a quelque temps que nous ne nous sommes vus, et je suis ravi de
+cette aventure.
+
+- Cathos -
+
+Le voici.
+
+
+
+-----------
+
+
+SCÈNE XII. - Cathos, Madelon, Jodelet, Mascarille, Marotte, Almanzor.
+
+
+- Mascarille -
+
+Ah ! vicomte !
+
+- Jodelet -
+
+          (Ils s'embrassent l'un l'autre.)
+
+Ah ! marquis !
+
+- Mascarille -
+
+Que je suis aise de te rencontrer !
+
+- Jodelet -
+
+Que j'ai de joie de te voir ici !
+
+- Mascarille -
+
+Baise-moi donc encore un peu, je te prie.
+
+- Madelon -
+
+          (à Cathos.)
+
+Ma toute bonne, nous commençons d'être connues ; voilà le beau monde
+qui prend le chemin de nous venir voir.
+
+- Mascarille -
+
+Mesdames, agréez que je vous présente ce gentilhomme-ci : sur ma
+parole, il est digne d'être connu de vous.
+
+- Jodelet -
+
+Il est juste de venir vous rendre ce qu'on vous doit ; et vos attraits
+exigent leurs droits seigneuriaux sur toutes sortes de personnes.
+
+- Madelon -
+
+C'est pousser vos civilités jusqu'aux derniers confins de la
+flatterie.
+
+- Cathos -
+
+Cette journée doit être marquée dans notre almanach comme une journée
+bien heureuse.
+
+- Madelon -
+
+          (à Almanzor.)
+
+Allons, petit garçon, faut-il toujours vous répéter les choses ?
+Voyez-vous pas qu'il faut le surcroît d'un fauteuil ?
+
+- Mascarille -
+
+Ne vous étonnez pas de voir le vicomte de la sorte ; il ne fait que
+sortir d'une maladie qui lui a rendu le visage pâle comme vous le
+voyez.
+
+- Jodelet -
+
+Ce sont fruits des veilles de la cour, et des fatigues de la guerre.
+
+- Mascarille -
+
+Savez-vous, Mesdames, que vous voyez dans le vicomte un des
+vaillants hommes du siècle ? C'est un brave à trois poils (16).
+
+- Jodelet -
+
+Vous ne m'en devez rien, marquis ; et nous savons ce que vous savez
+faire aussi.
+
+- Mascarille -
+
+Il est vrai que nous nous sommes vus tous deux dans l'occasion.
+
+- Jodelet -
+
+Et dans des lieux où il faisait fort chaud.
+
+- Mascarille -
+
+          (regardant Cathos et Madelon.)
+
+Oui, mais non pas si chaud qu'ici. Hai, hai, hai.
+
+- Jodelet -
+
+Notre connaissance s'est faite à l'armée ; et la première fois que
+nous nous vîmes, il commandait un régiment de cavalerie sur les
+galères de Malte.
+
+- Mascarille -
+
+Il est vrai ; mais vous étiez pourtant dans l'emploi avant que j'y
+fusse ; et je me souviens que je n'étais que petit officier encore,
+que vous commandiez deux mille chevaux.
+
+- Jodelet -
+
+La guerre est une belle chose ; mais, ma foi, la cour récompense bien
+mal aujourd'hui les gens de service comme nous.
+
+- Mascarille -
+
+C'est ce qui fait que je veux pendre l'épée au croc.
+
+- Cathos -
+
+Pour moi, j'ai un furieux tendre pour les hommes d'épée.
+
+- Madelon -
+
+Je les aime aussi ; mais je veux que l'esprit assaisonne la bravoure.
+
+- Mascarille -
+
+Te souvient-il, vicomte, de cette demi-lune que nous emportâmes sur
+les ennemis au siége d'Arras ?
+
+- Jodelet -
+
+Que veux-tu dire, avec ta demi-lune ? C'était bien une lune toute
+entière.
+
+- Mascarille -
+
+Je pense que tu as raison.
+
+- Jodelet -
+
+Il m'en doit bien souvenir, ma foi ! j'y fus blessé à la jambe d'un
+coup de grenade, dont je porte encore les marques. Tâtez un peu, de
+grâce ; vous sentirez quelque coup c'était là.
+
+- Cathos -
+
+          (après avoir touché l'endroit.)
+
+Il est vrai que la cicatrice est grande.
+
+- Mascarille -
+
+Donnez-moi un peu votre main, et tâtez celui-ci ; là, justement au
+derrière de la tête. Y êtes-vous ?
+
+- Madelon -
+
+Oui, je sens quelque chose.
+
+- Mascarille -
+
+C'est un coup de mousquet que je reçus, la dernière campagne que j'ai
+faite.
+
+- Jodelet -
+
+          (découvrant sa poitrine.)
+
+Voici un autre coup qui me perça de part en part à l'attaque de
+Gravelines (17).
+
+- Mascarille -
+
+          (Mettant la main sur le bouton de son haut-de-chausses.)
+
+Je vais vous montrer une furieuse plaie.
+
+- Madelon -
+
+Il n'est pas nécessaire : nous le croyons sans y regarder.
+
+- Mascarille -
+
+Ce sont des marques honorables qui font voir ce qu'on est.
+
+- Cathos -
+
+Nous ne doutons point de ce que vous êtes.
+
+- Mascarille -
+
+Vicomte, as-tu là ton carrosse ?
+
+- Jodelet -
+
+Pourquoi ?
+
+- Mascarille -
+
+Nous mènerions promener ces dames hors des portes, et leur donnerions
+un cadeau (18).
+
+- Madelon -
+
+Nous ne saurions sortir aujourd'hui.
+
+- Mascarille -
+
+Ayons donc les violons pour danser.
+
+- Jodelet -
+
+Ma foi, c'est bien avisé.
+
+- Madelon -
+
+Pour cela, nous y consentons : mais il faut donc quelque surcroît de
+compagnie.
+
+- Mascarille -
+
+Holà ! Champagne, Picard, Bourguignon, Cascaret, Basque, la Verdure,
+Lorrain, Provençal, la Violette ! Au diable soient tous les laquais !
+Je ne pense pas qu'il y ait gentilhomme en France plus mal servi que
+moi. Ces canailles me laissent toujours seul.
+
+- Madelon -
+
+Almanzor, dites aux gens de monsieur le marquis qu'ils aillent quérir
+des violons, et nous faites venir ces messieurs et ces dames d'ici
+près, peupler la solitude de notre bal.
+
+          (Almanzor sort.)
+
+- Mascarille -
+
+Vicomte, que dis-tu de ces yeux ?
+
+- Jodelet -
+
+Mais toi-même, marquis, que t'en semble ?
+
+- Mascarille -
+
+Moi, je dis que nos libertés auront peine à sortir d'ici les braies (19)
+nettes. Au moins, pour moi, je reçois d'étranges secousses, et mon
+coeur ne tient plus qu'à un filet.
+
+- Madelon -
+
+Que tout ce qu'il dit est naturel ! Il tourne les choses le plus
+agréablement du monde.
+
+- Cathos -
+
+Il est vrai qu'il fait une furieuse dépense en esprit.
+
+- Mascarille -
+
+Pour vous montrer que je suis véritable, je veux faire un impromptu
+là-dessus.
+
+          (Il médite.)
+
+- Cathos -
+
+Hé ! je vous en conjure de toute la dévotion de mon coeur, que nous
+oyons quelque chose qu'on ait fait pour nous.
+
+- Jodelet -
+
+J'aurais envie d'en faire autant ; mais je me trouve un peu incommodé
+de la veine poétique, pour la quantité des saignées que j'y ai faites
+ces jours passés.
+
+- Mascarille -
+
+Que diable est-ce là ? Je fais toujours bien le premier vers, mais
+j'ai peine à faire les autres. Ma foi, ceci est un peu trop pressé :
+je vous ferai un impromptu à loisir, que vous trouverez le plus beau
+du monde.
+
+- Jodelet -
+
+Il a de l'esprit comme un démon.
+
+- Madelon -
+
+Et du galant, et du bien tourné.
+
+- Mascarille -
+
+Vicomte, dis-moi un peu, y a-t-il longtemps que tu n'as vu la comtesse ?
+
+- Jodelet -
+
+Il y a plus de trois semaines que je ne lui ai rendu visite.
+
+- Mascarille -
+
+Sais-tu bien que le duc m'est venu voir ce matin, et m'a voulu mener à
+la campagne courir un cerf avec lui ?
+
+- Madelon -
+
+Voici nos amies qui viennent.
+
+
+
+-----------
+
+
+SCÈNE XIII. - Lucile, Célimène, Cathos, Madelon, Mascarille,
+              Jodelet, Marotte, Almanzor, violons.
+
+
+- Madelon -
+
+Mon Dieu, mes chères (20), nous vous demandons pardon. Ces messieurs
+ont eu fantaisie de nous donner les âmes des pieds, et nous vous
+avons envoyé quérir pour remplir les vides de notre assemblée.
+
+- Lucile -
+
+Vous nous avez obligées, sans doute.
+
+- Mascarille -
+
+Ce n'est ici qu'un bal à la hâte ; mais l'un de ces jours, nous vous en
+donnerons un dans les formes. Les violons sont-ils venus ?
+
+- Almanzor -
+
+Oui, Monsieur ; ils sont ici.
+
+- Cathos -
+
+Allons donc, mes chères, prenez place.
+
+- Mascarille -
+
+          (dansant lui seul comme par prélude.)
+
+La, la, la, la, la, la, la, la.
+
+- Madelon -
+
+Il a tout à fait la taille élégante.
+
+- Cathos -
+
+Et a la mine de danser proprement (21).
+
+- Mascarille -
+
+          (ayant pris Madelon.)
+
+Ma franchise va danser la courante aussi bien que mes pieds. En
+cadence, violons, en cadence ! Oh ! quels ignorants ! Il n'y a pas
+moyen de danser avec eux. Le diable vous emporte ! ne sauriez-vous
+jouer en mesure ? La, la, la, la, la, la, la, la. Ferme ! O violons de
+village !
+
+- Jodelet -
+
+          (dansant ensuite.)
+
+Holà ! ne pressez pas si fort la cadence : je ne fais que sortir de
+maladie.
+
+
+
+-----------
+
+
+SCÈNE XIV. - Du Croisy, La Grange, Cathos, Madelon, Lucile, Célimène,
+             Jodelet, Mascarille, Marotte, violons.
+
+
+- La Grange -
+
+          (un bâton à la main.)
+
+Ah ! ah ! coquins, que faites-vous ici ? Il y a trois heures que nous
+vous cherchons.
+
+- Mascarille -
+
+          (se sentant battre.)
+
+Ahi ! ahi ! ahi ! vous ne m'aviez pas dit que les coups en seraient
+aussi.
+
+- Jodelet -
+
+Ahi ! ahi ! ahi !
+
+- La Grange -
+
+C'est bien à vous, infâme que vous êtes, à vouloir faire l'homme
+d'importance !
+
+- Du Croisy -
+
+Voilà qui vous apprendra à vous connaître.
+
+
+
+-----------
+
+
+SCÈNE XV. - Cathos, Madelon, Lucile, Célimène, Jodelet, Mascarille,
+            Marotte, violons.
+
+
+- Madelon -
+
+Que veut donc dire ceci ?
+
+- Jodelet -
+
+C'est une gageure.
+
+- Cathos -
+
+Quoi ! vous laisser battre de la sorte !
+
+- Mascarille -
+
+Mon Dieu ! je n'ai pas voulu faire semblant de rien ; car je suis
+violent, et je me serais emporté.
+
+- Madelon -
+
+Endurer un affront comme celui-là en notre présence !
+
+- Mascarille -
+
+Ce n'est rien : ne laissons pas d'achever. Nous nous connaissons il y
+a longtemps ; et, entre amis, on ne va pas se piquer pour si peu de
+chose.
+
+
+
+-----------
+
+
+SCÈNE XVI. - Du Croisy, La Grange, Madelon, Cathos, Célimène, Lucile,
+             Mascarille, Jodelet, Marotte, violons.
+
+
+- La Grange -
+
+Ma foi, marauds, vous ne vous rirez pas de nous, je vous promets.
+Entrez, vous autres.
+
+          (Trois ou quatre spadassins entrent.)
+
+- Madelon -
+
+Quelle est donc cette audace, de venir nous troubler de la sorte dans
+notre maison !
+
+- Du Croisy -
+
+Comment, Mesdames, nous endurerons que nos laquais soient mieux reçus
+que nous ; qu'ils viennent vous faire l'amour à nos dépens, et vous
+donnent le bal !
+
+- Madelon -
+
+Vos laquais !
+
+- La Grange -
+
+Oui, nos laquais : et cela n'est ni beau ni honnête de nous les
+débaucher comme vous faites.
+
+- Madelon -
+
+O ciel ! quelle insolence !
+
+- La Grange -
+
+Mais ils n'auront pas l'avantage de se servir de nos habits pour vous
+donner dans la vue ; et si vous les voulez aimer, ce sera, ma foi,
+pour leurs beaux yeux. Vite, qu'on les dépouille sur-le-champ.
+
+- Jodelet -
+
+Adieu notre braverie.
+
+- Mascarille -
+
+Voilà le marquisat et la vicomté à bas.
+
+- Du Croisy -
+
+Ah ! ah ! coquins, vous avez l'audace d'aller sur nos brisées ! Vous
+irez chercher autre part de quoi vous rendre agréables aux yeux de vos
+belles, je vous en assure.
+
+- La Grange -
+
+C'est trop que de nous supplanter, et de nous supplanter avec nos
+propres habits.
+
+- Mascarille -
+
+O fortune ! quelle est ton inconstance !
+
+- Du Croisy -
+
+Vite, qu'on leur ôte jusqu'à la moindre chose.
+
+- La Grange -
+
+Qu'on emporte toutes ces hardes, dépêchez. Maintenant, Mesdames, en
+l'état qu'ils sont, vous pouvez continuer vos amours avec eux tant
+qu'il vous plaira ; nous vous laissons toute sorte de liberté pour
+cela, et nous vous protestons, Monsieur et moi, que nous n'en serons
+aucunement jaloux.
+
+
+
+-----------
+
+
+SCÈNE XVII. - Madelon, Cathos, Jodelet, Mascarille, violons.
+
+
+- Cathos -
+
+Ah ! quelle confusion !
+
+- Madelon -
+
+Je crève de dépit.
+
+- Un des Violons -
+
+          (à Mascarille.)
+
+Qu'est-ce donc que ceci ? Qui nous payera nous autres ?
+
+- Mascarille -
+
+Demandez à monsieur le vicomte.
+
+- Un des Violons -
+
+          (à Jodelet.)
+
+Qui est-ce qui nous donnera de l'argent ?
+
+- Jodelet -
+
+Demandez à monsieur le marquis.
+
+
+
+-----------
+
+
+SCÈNE XVIII. - Gorgibus, Madelon, Cathos, Jodelet, Mascarille, violons.
+
+
+- Gorgibus -
+
+Ah ! coquines que vous êtes, vous nous mettez dans de beaux draps
+blancs, à ce que je vois ; et je viens d'apprendre de belles affaires,
+vraiment, de ces messieurs qui sortent.
+
+- Madelon -
+
+Ah ! mon père, c'est une pièce sanglante qu'ils nous ont faite.
+
+- Gorgibus -
+
+Oui, c'est une pièce sanglante, mais qui est un effet de votre
+impertinence, infâmes ! Ils se sont ressentis du traitement que vous
+leur avez fait, et cependant, malheureux que je suis, il faut que je
+boive l'affront.
+
+- Madelon -
+
+Ah ! je jure que nous en serons vengés, ou que je mourrai en la
+peine. Et vous, marauds, osez-vous vous tenir ici après votre
+insolence ?
+
+- Mascarille -
+
+Traiter comme cela un marquis ! Voilà ce que c'est que du monde : la
+moindre disgrâce nous fait mépriser de ceux qui nous chérissaient.
+Allons, camarade, allons chercher fortune autre part ; je vois bien
+qu'on n'aime ici que la vaine apparence, et qu'on n'y considère point
+la vertu toute nue.
+
+
+
+-----------
+
+
+SCÈNE XIX. - Gorgibus, Madelon, Cathos, violons.
+
+
+- Un des Violons -
+
+Monsieur, nous entendons que vous nous contentiez, à leur défaut, pour
+ce que nous avons joué ici.
+
+- Gorgibus -
+
+          (les battant.)
+
+Oui, oui, je vous vais contenter ; et voici la monnaie dont je vous
+veux payer. Et vous, pendardes, je ne sais qui me tient que je ne vous
+en fasse autant ; nous allons servir de fable et de risée à tout le
+monde, et voilà ce que vous vous êtes attiré par vos extravagances.
+Allez vous cacher, vilaines, allez vous cacher pour jamais.
+
+          (Seul.)
+
+Et vous, qui êtes cause de leur folie, sottes billevesées (22),
+pernicieux amusements des esprits oisifs, romans, vers, chansons,
+sonnets et sonnettes, puissiez-vous être à tous les diables !
+
+
+
+FIN DES PRÉCIEUSES RIDICULES.
+
+-------------------------------------------------------------------------
+
+Notes [from 1890 edition]
+
+
+-----------
+
+(1) Le Duchat donne à ce mot la même signification qu'au mot "pécore".
+Ne viendrait-il pas du mot italien "pecca", vice, défaut, ou du mot
+latin "pecus", dont on a fait pécore ? (B.)
+
+-----------
+
+(2) On voit par la préface de Molière qu'on distinguait deux ordres de
+"précieuses", et que cette appellation ne fut pas toujours prise en
+mauvaise part. Le "Grand Dictionnaire historique des Précieuses",
+imprimé chez Ribou en 1661, osa nommer ce que la France avait de plus
+grand, de plus poli, de plus aimable. Les Longueville, la Fayette,
+Sévigné, Deshoulières, le grand Corneille, Ninon de Lenclos, sont à la
+tête de cette list nombreuse, où figurent le roi, la reine et toute la
+cour. (B.)
+
+-----------
+
+(3) Palaprat, contemporain et ami de Molière, nous apprend que "Gorgibus"
+était le nom d'un emploi de l'ancienne comédie, comme les Pasquins,
+les Turlupins, les Jodelets, etc. En effet, on trouve souvent le nom
+de Gorgibus dans les canevas italiens.
+
+-----------
+
+(4) Cyrus et Mandane, Clélie et Aronce, sont les principaux personnages
+d'"Artamène" et de "Clélie", romans alors très à la mode.
+
+-----------
+
+(5) "Pousser le doux, le tendre et le passionné", expressions du temps,
+dont les auteurs contemporains offrent plusieurs exemples.
+
+-----------
+
+(6) La carte de "Tendre" est une fiction allégorique du roman de "Clélie".
+On voit sur cette carte un fleuve d'"Inclination", une mer d'"Inimitié",
+un lac d'"Indifférence", et une multitude d'autres inventions de ce genre.
+Pour parvenir à la ville de "Tendre", il fallait assiéger le village de
+"Billets-Galants", forcer le hameau de "Billets-Doux", et s'emparer ensuite
+du château de "Petits-Soins". (Voy. "Clélie", tome I.)
+
+-----------
+
+(7) Anciennement le "rabat" n'était autre chose que le col de la chemise
+"rabattu" en dehors sur le vêtement, et c'est de là qu'il a pris son nom.
+
+-----------
+
+(8) "Parler chrétien", c'est parler en langage intelligible. Cette
+expression est venue des Vénitiens, qui disent que, comme il n'y a de
+vraie religion que celle des "chrétiens", il n'y a aussi que leur
+langage qui doive être entendu. (Le Duchat.)
+
+-----------
+
+(9) Ce proverbe, "traiter de Turc à More", qui signifie "traiter avec
+la dernière rigueur", est sans doute fondé sur ce que les Turcs et les
+Mores, dans leurs anciennes guerres, ne se faisaient point de
+quartier. (A.)
+
+-----------
+
+(10) "Caution bourgeoise", signifie "caution solvable", "caution valable".
+Molière a employé une seconde fois cette expression dans la "Critique de
+l'Ecole des Femmes" : "La caution n'est pas bourgeoise." (A.)
+
+-----------
+
+(11) Personnage du roman de "Clélie", à qui l'auteur a voulu donner un
+caractère enjoué et plaisant. (B.) -- Dans le langage des précieuses,
+on disait : "Etre un Amilcar", pour "être enjoué". (Voyez le "Grand
+Dictionnaire des Précieuses, ou la Clef de la langue des ruelles",
+Paris, 1669, page 21.)
+
+-----------
+
+(12) On donnait le nom de "ruelles" aux assemblées de ce temps-là.
+L'alcôve servait de salon, et la société s'y réunissait autour du lit
+de la précieuse, qui se couchait pour recevoir ses visites. La "ruelle"
+était parée avec beaucoup d'élégance et de goût, et les hommes qui en
+faisaient les honneurs prenaient le nom d'"alcôvistes". (P.)
+
+-----------
+
+(13) La "petite oie" se disait alors des rubans, des plumes et des
+différentes garnitures qui ornaient l'habit, le chapeau, le noeud de
+l'épée, les gants, les bas et les souliers. (B.)
+
+-----------
+
+(14) "C'est Perdrigeon tout pur." -- "Perdrigeon" était le marchand en
+vogue qui fournissait les gens du bel air. Il ne faut pas confondre ce
+mot avec le nom de la belle couleur violette qui est emprunté d'une
+prune nommé "perdrigon".
+
+-----------
+
+(15) Les canons étaient un cercle d'étoffe large, et souvent orné de
+dentelles, qu'on attachait au-dessus du genou, et qui couvrait la moitié
+de la jambe. Les "importants" se rendaient ridicules par l'ampleur
+démesurée de leurs canons. Voilà pourquoi ceux de Mascarille "ont un
+grand quartier" de plus que ceux qu'on fait. (B.)
+
+-----------
+
+(16) Locution proverbiale qui rappelle l'ancien usage où étaient les
+militaires de terminer chaque côté de la moustache par quelques poils
+très effilés, et de tailler en pointe le bouquet de barbe qu'on
+laissait croître au milieu du menton. Cette mode venait d'Espagne. On
+la retrouve dans quelques portraits du règne de Louis XIII.
+
+-----------
+
+(17) L'"attaque de Gravelines" était un événement récent à l'époque
+où fut jouée la pièce, c'est à dire en 1659. L'année précédente, le
+maréchal de la Ferté avait pris cette ville sur les Espagnols.
+Le "siège d'Arras", dont Mascarille parle plus haut, remontait à 1654.
+Turenne avait fait lever ce siège au prince de Condé qui servait alors
+dans l'armée espagnole. (A.)
+
+-----------
+
+(18) On disait alors "se promener hors des portes", parce que Paris,
+encore entouré de remparts et de fossés, avait des portes auxquelles
+aboutissaient les principales rues qui vont du centre à la
+circonférence. C'est sur l'emplacement de ces remparts et de ces
+fossés que Louis XIV fit ensuite planter la promenade que nous nommons
+"boulevards". -- "Donner un cadeau", signifiait autrefois donner une
+"fête", un "repas".
+
+-----------
+
+(19) Le mot "braie" a vieilli, et ne se trouve plus dans nos
+dictionnaires que comme terme d'imprimerie et de marine. Du temps de
+Molière, il signifiait le linge de corps. (B.)
+
+-----------
+
+(20) On disait alors une "chère" comme on aurait dit une "précieuse".
+Ces deux mots avaient le même sens, et étaient également à la mode ;
+mais "chère" exprimait surtout l'intimité. Ce mot est resté.
+
+-----------
+
+(21) "Danser proprement", pour "bien danser". Expression recherchée,
+qui est restée dans notre langue, où même elle est devenue d'un usage
+vulgaire. C'est ainsi que dans cette multitude de locutions bizarres
+ou ridicules dont Molière s'est moqué avec tant de gaieté, il en est
+un assez grand nombre que nous employons tous les jours sans nous
+douter qu'elles sont un présent des "précieuses". Qui croirait, par
+exemple, que nous leur devons les phrases suivantes : "Tenir bureau
+d'esprit" ; "Avoir les cheveux d'un blond hardi" ; "Craindre de
+s'encanailler" ; "Avoir l'humeur communicative" ; "Etre pénétré des
+sentiments d'une personne" ; "Avoir la compréhension dure" ; "Revêtir
+ses pensées d'expressions vigoureuses" ; "Avoir le front chargé d'un
+sombre nuage" ; "N'avoir que le masque de la générosité" ; etc. ?
+Toutes ces expressions, qui n'ont rien d'extraordinaire aujourd'hui,
+sont citées par Saumaise comme faisant partie du nouveau dictionnaire
+des "Précieuses" ; et l'on peut en conclure que cette affection de
+langage, dont Molière a fait justice, n'a cependant pas été tout à
+fait inutile à la langue.
+
+-----------
+
+(22) "Billevesées", ou plutôt "billevezées", ainsi que l'écrit
+Rabelais. Balle remplie de vent, et, par allusion, discours vains,
+trompeurs. Mot composé de "bille", balle, et de "vezer", souffler, ou
+de "veze", musette. De là "billevezée", comme l'explique fort bien
+Furetière, pour "balle soufflée", pleine de vent. C'est précisement le
+"nugae canorae" des Latins.
+
+-----------
+
+
+
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Les Précieuses Ridicules, by Molière
+
+*** END OF THIS PROJECT GUTENBERG EBOOK LES PRÉCIEUSES RIDICULES ***
+
+***** This file should be named 5318-8.txt or 5318-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/3/1/5318/
+
+Produced by Laurent Le Guillou
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License available with this file or online at
+  www.gutenberg.org/license.
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation information page at www.gutenberg.org
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at 809
+North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
+contact links and up to date contact information can be found at the
+Foundation's web site and official page at www.gutenberg.org/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:  www.gutenberg.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For forty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

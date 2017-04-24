@@ -1,0 +1,723 @@
+The Project Gutenberg Etext of Memnon
+by Voltaire
+(#4 in our series by Voltaire)
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing
+this or any other Project Gutenberg file.
+
+Please do not remove this header information.
+
+This header should be the first thing seen when anyone starts to
+view the eBook. Do not change or edit it without written permission.
+The words are carefully chosen to provide users with the information
+needed to understand what they may and may not do with the eBook.
+To encourage this, we have moved most of the information to the end,
+rather than having it all here at the beginning.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**eBooks Readable By Both Humans and By Computers, Since 1971**
+
+*****These eBooks Were Prepared By Thousands of Volunteers!*****
+
+Information on contacting Project Gutenberg to get eBooks, and
+further information, is included below.  We need your donations.
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541
+Find out about how to make a donation at the bottom of this file.
+
+
+Title: Memnon
+
+Author: Voltaire
+
+Release Date: November, 2003  [Etext #4648]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on February 20, 2002]
+
+Edition: 10
+
+Language: French
+
+Character set encoding: ISO-Latin-1
+
+The Project Gutenberg Etext of Memnon
+by Voltaire
+******This file should be named 4648.txt or 4648.zip******
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep eBooks in compliance with any particular paper edition.
+
+The "legal small print" and other information about this book
+may now be found at the end of this file.  Please read this
+important information, as it gives you specific rights and
+tells you about restrictions in how the file may be used.
+
+***
+Produced by Carlo Traverso.
+
+We thank the Bibliotheque Nationale de France that has made available
+the image files at www://gallica.bnf.fr, authorizing the preparation
+of the etext through OCR.
+
+Nous remercions la Bibliothèque Nationale de France qui a mis à
+dispositions les images dans www://gallica.bnf.fr, et a donné
+l'authorization à les utilizer pour preparer ce texte.
+
+
+
+
+
+			     OEUVRES
+
+			       DE
+
+			    VOLTAIRE.
+
+			   TOME XXXIII
+
+	      DE L' IMPRIMERIE DE A.  FIRMIN DIDOT,
+
+			RUE JACOB, N° 24.
+
+
+
+
+			     OEUVRES
+
+			       DE
+
+			    VOLTAIRE
+
+	      PRÉFACES, AVERTISSEMENTS, NOTES, ETC.
+
+			PAR  M. BEUCHOT.
+
+			  TOME XXXIII.
+
+			ROMANS. TOME   I.
+
+			    A PARIS,
+
+		     CHEZ LEFÈVRE, LIBRAIRE,
+
+	 RUE DE L'ÉPERON, K° 6.  WERDET ET LEQUIEN FILS,
+
+		     RUE DU BATTOIR, N° 2O.
+
+			   MDCCCXXIX.
+
+
+
+
+
+
+
+
+
+			     MEMNON,
+
+			       ou
+
+		       LA SAGESSE HUMAINE.
+
+			      1750
+
+
+
+Préface de l'Éditeur
+
+
+Longchamp dit que _Memnon_ est de 1746; mais on a vu que c'était
+d'abord sous ce titre qu'avait été imprimé _Zadig_; et il est à
+croire que Longchamp, qui n'a rédigé ses _Mémoires_ que
+long-temps après, aura confondu les deux ouvrages.  Par la raison
+même que Voltaire avait donné en 1747 un _Memnon_, il est à
+présumer que ce n'est pas immédiatement après qu'il aura publié
+un autre ouvrage sous le même titre.  En admettant la nécessité
+de l'intervalle entre deux ouvrages différents du même auteur,
+mais ayant le même titre, cet intervalle ne peut s'étendre
+au-delà de 1750, puisque c'est la date que porte le tome IX de
+l'édition de Dresde des _Oeuvres de Voltaire_.  C'est sous la
+même date qu'a été publié le _Recueil de pièces en vers et en
+prose, par l'auteur de la tragédie de Sémiramis_, 1750, in-12.
+P.  Clément, auteur des _Cinq Années littéraires_, dit dans sa
+quarante-sixième lettre, datée du 13 janvier 1750, qu'il n'y a
+pas quinze jours que le petit conte de _Memnon_ est échappé à son
+auteur.
+
+
+
+	       AVERTISSEMENT DE L'AUTEUR[1]
+
+	       Nous tromper dans nos entreprises,
+	       C'est à quoi nous sommes sujets;
+	       Le matin je fais des projets,
+	       Et le long du jour, des sottises.
+
+Ces petits vers conviennent assez à un grand nombre de
+raisonneurs; et c'est une chose assez plaisante de voir un grave
+directeur d'âmes finir par un procès criminel, conjointement avec
+un banqueroutier[2].  A ce propos, nous réimprimons ici ce petit
+conte, qui est ailleurs; car il est bon qu'il soit partout.
+
+  [1] Voltaire, dans la quatrième partie de ses _Questions sur
+  l'Encyclopédie_, en 1771, avait un article : CONFIANCE EN
+  SOI-MÊME, qui n'était autre chose que le conte de Memnon,
+  précédé de quatre vers et de quelques lignes de prose, que les
+  éditeurs de Kehl ont intitulés: _Avertissement de l'auteur_.
+  B.
+
+  [2] Billard, et l'abbé Grizel, fameux directeur de consciences.
+  K.  -- Sur ces deux personnages, voyez la note des Stances à
+  Saurin (dans les Poésies).  B.
+
+
+
+
+			     MEMNON,
+
+			       ou
+
+		       LA SAGESSE HUMAINE.
+
+
+
+Memnon conçut un jour le projet insensé d'être parfaitement sage.
+Il n'y a guère d'hommes à qui cette folie n'ait quelquefois passé
+par la tête.  Memnon se dit à lui-même: Pour être très sage, et
+par conséquent très heureux, il n'y a qu'à être sans passions; et
+rien n'est plus aisé, comme on sait.  Premièrement je n'aimerai
+jamais de femme; car, en voyant une beauté parfaite, je me dirai
+à moi-même: Ces joues-là se rideront un jour; ces beaux yeux
+seront bordés de rouge; cette gorge ronde deviendra plate et
+pendante; cette belle tête deviendra chauve.  Or je n'ai qu'à la
+voir à présent des mêmes yeux dont je la verrai alors, et
+assurément cette tête ne fera pas tourner la mienne.
+
+En second lieu je serai toujours sobre; j'aurai beau être tenté
+par la bonne chère, par des vins délicieux, par la séduction de
+la société; je n'aurai qu'à me représenter les suites des excès,
+une tête pesante, un estomac embarrassé, la perte de la raison,
+de la santé, et du temps, je ne mangerai alors que pour le
+besoin; ma santé sera toujours égale, mes idées toujours pures et
+lumineuses.  Tout cela est si facile, qu'il n'y a aucun mérite à
+y parvenir.
+
+Ensuite, disait Memnon, il faut penser un peu à ma fortune; mes
+désirs sont modérés; mon bien est solidement placé sur le
+receveur-général des finances de Ninive; j'ai de quoi vivre dans
+l'indépendance: c'est là le plus grand des biens.  Je ne serai
+jamais dans la cruelle nécessité de faire ma cour: je n'envierai
+personne, et personne ne m'enviera.  Voilà qui est encore très
+aisé.  J'ai des amis, continuait-il, je les conserverai,
+puisqu'ils n'auront rien à me disputer.  Je n'aurai jamais
+d'humeur avec eux, ni eux avec moi; cela est sans difficulté.
+
+Ayant fait ainsi son petit plan de sagesse dans sa chambre,
+Memnon mit la tête à la fenêtre.  Il vit deux femmes qui se
+promenaient sous des platanes auprès de sa maison.  L'une était
+vieille, et paraissait ne songer à rien; l'autre était jeune,
+jolie, et semblait fort occupée.  Elle soupirait, elle pleurait,
+et n'en avait que plus de grâces.  Notre sage fut touché, non pas
+de la beauté de la dame (il était bien sûr de ne pas sentir une
+telle faiblesse), mais de l'affliction où il la voyait.  Il
+descendit, il aborda la jeune Ninivienne dans le dessein de la
+consoler avec sagesse.  Cette belle personne lui conta, de l'air
+le plus naïf et le plus touchant, tout le mal que lui fesait un
+oncle qu'elle n'avait point; avec quels artifices il lui avait
+enlevé un bien qu'elle n'avait jamais possédé, et tout ce qu'elle
+avait à craindre de sa violence.  Vous me paraissez un homme de
+si bon conseil, lui dit-elle, que si vous aviez la condescendance
+de venir jusque chez moi, et d'examiner mes affaires, je suis
+sûre que vous me tireriez du cruel embarras où je suis.  Memnon
+n'hésita pas à la suivre, pour examiner sagement ses affaires, et
+pour lui donner un bon conseil.
+
+La dame affligée le mena dans une chambre parfumée, et le fit
+asseoir avec elle poliment sur un large sofa, où ils se tenaient
+tous deux les jambes croisées vis-à-vis l'un de l'autre.  La dame
+parla en baissant les yeux, dont il échappait quelquefois des
+larmes, et qui en se relevant rencontraient toujours les regards
+du sage Memnon.  Ses discours étaient pleins d'un attendrissement
+qui redoublait toutes les fois qu'ils se regardaient.  Memnon
+prenait ses affaires extrêmement à coeur, et se sentait de moment
+en moment la plus grande envie d'obliger une personne si honnête
+et si malheureuse.  Ils cessèrent insensiblement, dans la chaleur
+de la conversation, d'être vis-à-vis l'un de l'autre.  Leurs
+jambes ne furent plus croisées.  Memnon la conseilla de si près,
+et lui donna des avis si tendres, qu'ils ne pouvaient ni l'un ni
+l'autre parler d'affaires, et qu'ils ne savaient plus où ils en
+étaient.
+
+Comme ils en étaient là, arrive l'oncle, ainsi qu'on peut bien le
+penser: il était armé de la tête aux pieds; et la première chose
+qu'il dit fut qu'il allait tuer, comme de raison, le sage Memnon
+et sa nièce; la dernière qui lui échappa fut qu'il pouvait
+pardonner pour beaucoup d'argent.  Memnon fut obligé de donner
+tout ce qu'il avait.  On était heureux dans ce temps-là d'en être
+quitte à si bon marché; l'Amérique n'était pas encore découverte,
+et les dames affligées n'étaient pas à beaucoup près si
+dangereuses qu'elles le sont aujourd'hui.
+
+Memnon, honteux et désespéré, rentra chez lui: il y trouva un
+billet qui l'invitait à dîner avec quelques uns de ses intimes
+amis.  Si je reste seul chez moi, dit-il, j'aurai l'esprit occupé
+de ma triste aventure, je ne mangerai point; je tomberai malade;
+il vaut mieux aller faire avec mes amis intimes un repas frugal.
+J'oublierai, dans la douceur de leur société, la sottise que j'ai
+faite ce matin.  Il va au rendez-vous; on le trouve un peu
+chagrin.  On le fait boire pour dissiper sa tristesse.  Un peu de
+vin pris modérément est un remède pour l'âme et pour le corps.
+C'est ainsi que pense le sage Memnon; et il s'enivre.  On lui
+propose de jouer après le repas.  Un jeu réglé avec des amis est
+un passe-temps honnête.  Il joue; on lui gagne tout ce qu'il a
+dans sa bourse, et quatre fois autant sur sa parole.  Une dispute
+s'élève sur le jeu, on s'échauffe: l'un de ses amis intimes lui
+jette à la tête un cornet, et lui crève un oeil.  On rapporte
+chez lui le sage Memnon ivre, sans argent, et ayant un oeil de
+moins.
+
+Il cuve un peu son vin; et dès qu'il a la tête plus libre, il
+envoie son valet chercher de l'argent chez le receveur-général
+des finances de Ninive pour payer ses intimes amis: on lui dit
+que son débiteur a fait le matin une banqueroute frauduleuse qui
+met en alarme cent familles.  Memnon, outré va à la cour avec un
+emplâtre sur l'oeil et un placet à la main pour demander justice
+au roi contre le banqueroutier.  Il rencontre dans un salon
+plusieurs dames qui portaient toutes d'un air aisé des cerceaux
+de vingt-quatre pieds de circonférence.  L'une d'elles, qui le
+connaissait un peu, dit en le regardant de côté: Ah, l'horreur!
+Une autre, qui le connaissait davantage, lui dit: Bonsoir,
+monsieur Memnon; mais vraiment, monsieur Memnon, je suis fort
+aise de vous voir; à propos, monsieur Memnon, pourquoi avez-vous
+perdu un oeil? Et elle passa sans attendre sa réponse.  Memnon se
+cacha dans un coin, et attendit le moment où il pût se jeter aux
+pieds du monarque.  Ce moment arriva.  Il baisa trois fois la
+terre, et présenta son placet.  Sa gracieuse majesté le reçut
+très favorablement, et donna le mémoire à un de ses satrapes pour
+lui en rendre compte.  Le satrape tire Memnon à part, et lui dit
+d'un air de hauteur, en ricanant amèrement: Je vous trouve un
+plaisant borgne, de vous adresser au roi plutôt qu'à moi, et
+encore plus plaisant d'oser demander justice contre un honnête
+banqueroutier que j'honore de ma protection, et qui est le neveu
+d'une femme de chambre de ma maîtresse.  Abandonnez cette
+affaire-là, mon ami, si vous voulez conserver l'oeil qui vous
+reste.
+
+Memnon, ayant ainsi renoncé le matin aux femmes, aux excès de
+table, au jeu, à toute querelle, et surtout à la cour, avait été
+avant la nuit trompé et volé par une belle dame, s'était enivré,
+avait joué, avait eu une querelle, s'était fait crever un oeil,
+et avait été à la cour, où l'on s'était moqué de lui.
+
+Pétrifié d'étonnement et navré de douleur, il s'en retourne la
+mort dans le coeur.  Il veut rentrer chez lui; il y trouve des
+huissiers qui démeublaient sa maison de la part de ses
+créanciers.  Il reste presque évanoui sous un platane; il y
+rencontre la belle dame du matin, qui se promenait avec son cher
+oncle, et qui éclata de rire en voyant Memnon avec son emplâtre.
+La nuit vint; Memnon se coucha sur de la paille auprès des murs
+de sa maison.  La fièvre le saisit; il s'endormit dans l'accès,
+et un esprit céleste lui apparut en songe.
+
+Il était tout resplendissant de lumière.  Il avait six belles
+ailes, mais ni pieds, ni tête, ni queue, et ne ressemblait à
+rien.  Qui es-tu?  lui dit Memnon.  Ton bon génie, lui répondit
+l'autre.  Rends-moi donc mon oeil, ma santé, ma maison[3], mon
+bien, ma sagesse, lui dit Memnon.  Ensuite il lui conta comment
+il avait perdu tout cela en un jour.  Voilà des aventures qui ne
+nous arrivent jamais dans le monde que nous habitons, dit
+l'esprit.  Et quel monde habitez-vous? dit l'homme affligé.  Ma
+patrie, répondit-il, est à cinq cents millions de lieues du
+soleil, dans une petite étoile auprès de Sirius, que tu vois
+d'ici.  Le beau pays! dit Memnon: quoi! vous n'avez point chez
+vous de coquines qui trompent un pauvre homme, point d'amis
+intimes qui lui gagnent son argent et qui lui crèvent un oeil,
+point de banqueroutiers, point de satrapes qui se moquent de vous
+en vous refusant justice? Non, dit l'habitant de l'étoile, rien
+de tout cela.  Nous ne sommes jamais trompés par les femmes,
+parceque nous n'en avons point; nous ne fesons point d'excès de
+table, parceque nous ne mangeons point; nous n'avons point de
+banqueroutiers, parcequ'il n'y a chez nous ni or ni argent; on ne
+peut nous crever les yeux, parceque nous n'avons point de corps à
+la façon des vôtres; et les satrapes ne nous font jamais
+d'injustice, parce que dans notre petite étoile tout le monde est
+égal.
+
+  [3] C'est d'après les éditions de 1750 que je rétablis ici les
+  mots _ma maison_.  B.
+
+Memnon lui dit alors: Monseigneur, sans femme et sans dîner, à
+quoi passez-vous votre temps? A veiller, dit le génie, sur les
+autres globes qui nous sont confiés: et je viens pour te
+consoler.  Hélas!  reprit Memnon, que ne veniez-vous la nuit
+passée pour m'empêcher de faire tant de folies? J'étais auprès
+d'Assan, ton frère aîné, dit l'être céleste.  Il est plus à
+plaindre que toi.  Sa gracieuse majesté le roi des Indes, à la
+cour duquel il a l'honneur d'être, lui a fait crever les deux
+yeux pour une petite indiscrétion, et il est actuellement dans un
+cachot, les fers aux pieds et aux mains.  C'est bien la peine,
+dit Memnon, d'avoir un bon génie dans une famille, pour que de
+deux frères, l'un soit borgne, l'autre aveugle, l'un couché sur
+la paille, l'autre en prison.  Ton sort changera, reprit l'animal
+de l'étoile.  Il est vrai que tu seras toujours borgne; mais, à
+cela près, tu seras assez heureux, pourvu que tu ne fasses jamais
+le sot projet d'être parfaitement sage.  C'est donc une chose à
+laquelle il est impossible de parvenir? s'écria Memnon en
+soupirant.  Aussi impossible, lui répliqua l'autre, que d'être
+parfaitement habile, parfaitement fort, parfaitement puissant,
+parfaitement heureux.  Nous-mêmes, nous en sommes bien loin.  Il
+y a un globe où tout cela se trouve; mais dans les cent mille
+millions de mondes qui sont dispersés dans l'étendue tout se suit
+par degrés.  On a moins de sagesse et de plaisir dans le second
+que dans le premier, moins dans le troisième que dans le second,
+ainsi du reste jusqu'au dernier, où tout le monde est
+complètement fou.  J'ai bien peur, dit Memnon, que notre petit
+globe terraqué ne soit précisément les Petites-Maisons de
+l'univers dont vous me faites l'honneur de me parler.  Pas
+tout-à-fait, dit l'esprit; mais il en approche: il faut que tout
+soit en sa place.  Eh mais! dit Memnon, certains poètes[4],
+certains philosophes[5], ont donc grand tort de dire que tout est
+bien? Ils ont grande raison, dit le philosophe de là-haut, en
+considérant l'arrangement de l'univers entier.  Ah! je ne croirai
+cela, répliqua le pauvre Memnon, que quand je ne serai plus
+borgne.
+
+  [4] Pope.  B.
+
+  [5] Platon, Shafiesbury, Bolingbroke, Leibnitz.  B.
+The Project Gutenberg Etext of Memnon
+by Voltaire
+******This file should be named memno10.txt or memno10.zip******
+
+Corrected EDITIONS of our etexts get a new NUMBER, memno11.txt
+VERSIONS based on separate sources get new LETTER, memno10a.txt
+
+Produced by Carlo Traverso.
+
+***
+
+More information about this book is at the top of this file.
+
+
+We are now trying to release all our eBooks one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg eBooks is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our Web sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+eBooks, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any eBook before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/eBook03 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/eBook03
+
+Or /eBook02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any eBook selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2002 as we release over 100 new text
+files per month:  1240 more eBooks in 2001 for a total of 4000+
+We are already on our way to trying for 2000 more eBooks in 2002
+If they reach just 1-2% of the world's population then the total
+will reach over half a trillion eBooks given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away 1 Trillion eBooks!
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+Here is the briefest record of our progress (* means estimated):
+
+eBooks Year Month
+
+    1  1971 July
+   10  1991 January
+  100  1994 January
+ 1000  1997 August
+ 1500  1998 October
+ 2000  1999 December
+ 2500  2000 December
+ 3000  2001 November
+ 4000  2001 October/November
+ 6000  2002 December*
+ 9000  2003 November*
+10000  2004 January*
+
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of February, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut,
+Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
+Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
+Virginia, Wisconsin, and Wyoming.
+
+We have filed in all 50 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+The most recent list of states, along with all methods for donations
+(including credit card donations and international donations), may be
+found online at http://www.gutenberg.net/donation.html
+
+Donations by check or money order may be sent to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+
+The Project Gutenberg Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fund-raising
+requirements for other states are met, additions to this list will be
+made and fund-raising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this eBook, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this eBook if you want to.
+
+*BEFORE!* YOU USE OR READ THIS EBOOK
+By using or reading any part of this PROJECT GUTENBERG-tm
+eBook, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this eBook by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this eBook on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM EBOOKS
+This PROJECT GUTENBERG-tm eBook, like most PROJECT GUTENBERG-tm eBooks,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this eBook
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these eBooks, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's eBooks and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other eBook medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this eBook from as a PROJECT GUTENBERG-tm eBook) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this eBook within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS EBOOK IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE EBOOK OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this eBook,
+[2] alteration, modification, or addition to the eBook,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this eBook electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     eBook or this "small print!" statement.  You may however,
+     if you wish, distribute this eBook in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The eBook, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The eBook may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the eBook (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          eBook in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the eBook refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this header are copyright (C) 2001 by Michael S. Hart
+and may be reprinted only when these eBooks are free of all fees.]
+[Project Gutenberg is a TradeMark and may not be used in any sales
+of Project Gutenberg eBooks or other materials be they hardware or
+software or any other related product without express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*
+
+
+
+End of The Project Gutenberg Etext of Memnon
+by Voltaire
+

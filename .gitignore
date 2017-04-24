@@ -1,2 +1,3 @@
-data/Gutenberg/*
+data/Gutenberg/ebooks-zipped/*
+data/Gutenberg/indexes/*
 image_captionning/data/*
