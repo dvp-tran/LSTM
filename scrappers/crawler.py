@@ -111,8 +111,9 @@ def compare_top_vs_script(year,path_origin,path_destination):
     
     
     
-def scripts_by_genre(genre,path_destination):
+def scripts_by_genre(genre,path_destination,max_nb):
     #time_start=time.time()
+    count=0
     url_site="http://www.imsdb.com/genre/"   
     liste_script = urllib2.Request(url_site+genre)
     page = urllib2.urlopen(liste_script).read()
@@ -137,6 +138,9 @@ def scripts_by_genre(genre,path_destination):
                 print(url)
                 try:
                     parse(url,path_destination,name)
+                    count=count+1
+                    if count>=max_nb:
+                        break
                 except Exception as e:
                     print('Found exception %s in parsing.' %(e))
             
