@@ -38,8 +38,10 @@ import matplotlib.image as mpimg
 
 # In[2]:
 
-model_path = "../03-image_captionning/models/tensorflow"
-vgg_path = "../03-image_captionning/data/vgg16-20160129.tfmodel"
+#model_path = "../03-image_captionning/models/tensorflow/"
+#vgg_path = "../03-image_captionning/data/vgg16-20160129.tfmodel"
+model_path = "./models/tensorflow/"
+vgg_path = "./data/vgg16-20160129.tfmodel"
 
 
 
@@ -183,6 +185,7 @@ if not os.path.exists('../03-image_captionning/data/ixtoword.npy'):
     print ('You must run 1. Training.ipynb first.')
 else:    
     with open(vgg_path,'rb') as f:
+        print("vgg file opened.")
         fileContent = f.read()
         graph_def = tf.GraphDef()
         graph_def.ParseFromString(fileContent)
@@ -259,6 +262,7 @@ def test(sess,image,generated_words,ixtoword,test_image_path=0): # Naive greedy 
     # sanity_check=True
     if not sanity_check:
         saved_path=tf.train.latest_checkpoint(model_path)
+        print(saved_path)
         saver.restore(sess, saved_path)
     else:
         tf.global_variables_initializer().run()
