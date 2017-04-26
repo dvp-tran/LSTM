@@ -1,5 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
-# coding: utf-8
 
 # # Generating captions from images
 # This notebook builds on the previous caption generation notebook. The key difference however is that the image feature embedding is generated from an image passed through the VGG-16 network, as opposed to just pulling the feature embedding from an already precomputed set of feature embeddings for the Flickr-30K dataset. This allows the user to generate captions for their own images in addition to generating captions for the Flickr-30K images.
