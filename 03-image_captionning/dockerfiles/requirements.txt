@@ -1,4 +1,0 @@
-pandas
-scikit-learn
-scikit-image
-opencv-python

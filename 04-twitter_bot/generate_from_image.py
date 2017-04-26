@@ -2,14 +2,7 @@
 # -*- coding: utf-8 -*-
 
 
-# # Generating captions from images
-# This notebook builds on the previous caption generation notebook. The key difference however is that the image feature embedding is generated from an image passed through the VGG-16 network, as opposed to just pulling the feature embedding from an already precomputed set of feature embeddings for the Flickr-30K dataset. This allows the user to generate captions for their own images in addition to generating captions for the Flickr-30K images.
-# 
-# *Note:* The `model_path` variable should be the same as the `model_path` variable set in `O'Reilly Training.ipynb`
-# 
-# # Make sure to run the 'O'Reilly Training.ipynb' notebook for at least one epoch before running this notebook.
 
-# In[1]:
 
 import math
 import os
@@ -24,7 +17,7 @@ import tensorflow.python.platform
 from keras.preprocessing import sequence
 from collections import Counter
 
-get_ipython().magic(u'matplotlib inline')
+
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 
@@ -32,10 +25,10 @@ import matplotlib.image as mpimg
 
 
 
-#model_path = "../03-image_captionning/models/tensorflow/"
-#vgg_path = "../03-image_captionning/data/vgg16-20160129.tfmodel"
-model_path = "./models/tensorflow/"
-vgg_path = "./data/vgg16-20160129.tfmodel"
+model_path = "../03-image_captionning/models/tensorflow/"
+vgg_path = "../03-image_captionning/data/vgg16-20160129.tfmodel"
+#model_path = "./models/tensorflow/"
+#vgg_path = "./data/vgg16-20160129.tfmodel"
 
 
 
@@ -269,7 +262,7 @@ def test(sess,image,generated_words,ixtoword,test_image_path=0): # Naive greedy 
     generated_words = generated_words[:punctuation]
     generated_sentence = ' '.join(generated_words)
     print(generated_sentence)
-
+    return generated_sentence
 
 
 
