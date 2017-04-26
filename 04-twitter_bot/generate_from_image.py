@@ -30,7 +30,8 @@ vgg_path = "../03-image_captionning/data/vgg16-20160129.tfmodel"
 #model_path = "./models/tensorflow/"
 #vgg_path = "./data/vgg16-20160129.tfmodel"
 
-
+#clear tf graph
+tf.reset_default_graph()
 
 
 
