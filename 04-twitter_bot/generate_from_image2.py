@@ -29,14 +29,8 @@ import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 
 
-# # Downloading Data
-# In order to run this notebook you will need to download a pretrained TensorFlow model for [VGG-16](https://drive.google.com/file/d/0B2vTU3h54lTyaDczbFhsZFpsUGs/view?usp=sharing) generated from the original Caffe model from the VGG-16 paper. 
-# 
-# Place this download in the `./data/` folder.
-# 
-# The graph model should now be saved at `./data/vgg16-20160129.tfmodel` .
 
-# In[2]:
+
 
 #model_path = "../03-image_captionning/models/tensorflow/"
 #vgg_path = "../03-image_captionning/data/vgg16-20160129.tfmodel"
