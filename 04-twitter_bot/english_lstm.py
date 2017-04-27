@@ -27,7 +27,7 @@ if len(all_files)!=1:
     print("Something wrong with model checkpoint, please verify concerned directory")
 
 last_checkpoint = last_checkpoint_dir+all_files[0]
-print("Using checkpoint : %s" %last_checkpoint
+print("Using checkpoint : %s" %last_checkpoint)
 
 #getting files from learning session
 file_name=out_path+'input/english.txt'
