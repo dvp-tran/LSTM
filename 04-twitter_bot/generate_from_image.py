@@ -20,18 +20,22 @@ from collections import Counter
 
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
+import argparse
 
+#argparse file path
+parser = argparse.ArgumentParser(description='Image Captionning.')
+parser.add_argument('file_path', type=str, help='image file path')
+args = parser.parse_args()
+image_to_path=args.file_path
 
-
-
-
+#models paths
 model_path = "../03-image_captionning/models/tensorflow/"
 vgg_path = "../03-image_captionning/data/vgg16-20160129.tfmodel"
 #model_path = "./models/tensorflow/"
 #vgg_path = "./data/vgg16-20160129.tfmodel"
 
 #clear tf graph
-tf.reset_default_graph()
+#tf.reset_default_graph()
 
 
 
@@ -173,10 +177,11 @@ if not os.path.exists('../03-image_captionning/data/ixtoword.npy'):
     print ('You must run 1. Training.ipynb first.')
 else:    
     with open(vgg_path,'rb') as f:
-        print("vgg file opened.")
+        #print("vgg file opened.")
         fileContent = f.read()
         graph_def = tf.GraphDef()
         graph_def.ParseFromString(fileContent)
+        
 
     images = tf.placeholder("float32", [1, 224, 224, 3])
     tf.import_graph_def(graph_def, input_map={"images":images})
@@ -185,7 +190,9 @@ else:
     n_words = len(ixtoword)
     maxlen=15
     graph = tf.get_default_graph()
-    sess = tf.InteractiveSession(graph=graph)
+    sess = tf.Session()
+    sess.as_default()
+    sess = tf.Session(graph=graph) #InteractiveSession
     caption_generator = Caption_Generator(dim_in, dim_hidden, dim_embed, batch_size, maxlen+2, n_words)
     graph = tf.get_default_graph()
 
@@ -250,7 +257,7 @@ def test(sess,image,generated_words,ixtoword,test_image_path=0): # Naive greedy 
     # sanity_check=True
     if not sanity_check:
         saved_path=tf.train.latest_checkpoint(model_path)
-        print(saved_path)
+        #print(saved_path)
         saver.restore(sess, saved_path)
     else:
         tf.global_variables_initializer().run()
@@ -266,9 +273,8 @@ def test(sess,image,generated_words,ixtoword,test_image_path=0): # Naive greedy 
     return generated_sentence
 
 
-
-
-
+if __name__ == "__main__":
+    test(sess,image,generated_words,ixtoword, image_to_path)
 
 
 
