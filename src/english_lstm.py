@@ -18,16 +18,26 @@ from os import listdir
 from os.path import isfile, join
 from unicodedata import normalize
 import re
+import argparse
+
+
+#argparse file path
+parser = argparse.ArgumentParser(description='Image Captionning.')
+parser.add_argument('seed', type=str, help='string to init LSTM.')
+parser.add_argument('number_of_letters', type=int, help='string to init LSTM.')
+args = parser.parse_args()
+seed_=args.seed
+nb_letters=args.number_of_letters
 
 #directories where files are
-out_path="../../LSTM/02-train_LSTM/english/data/"
-last_checkpoint_dir="../../LSTM/02-train_LSTM/english/data/weights/weight_attempt_s02/"
+out_path="../02-train_LSTM/english/data/"
+last_checkpoint_dir="../02-train_LSTM/english/data/weights/weight_attempt_s02/"
 all_files = [f for f in listdir(last_checkpoint_dir) if isfile(join(last_checkpoint_dir, f))]
 if len(all_files)!=1:
     print("Something wrong with model checkpoint, please verify concerned directory")
 
 last_checkpoint = last_checkpoint_dir+all_files[0]
-print("Using checkpoint : %s" %last_checkpoint)
+#print("Using checkpoint : %s" %last_checkpoint)
 
 #getting files from learning session
 file_name=out_path+'input/english.txt'
@@ -78,3 +88,8 @@ def generate_text_seeded(model,seed,length, vocab_size, ix_to_char):
         ix = np.argmax(model.predict(X[:, :i+1, :])[0], 1)
         y_char.append(ix_to_char[ix[-1]])
     return ('').join(y_char)
+
+
+
+if __name__ == "__main__":
+    generate_text_seeded(model,normalize('NFKD',seed_.decode('latin1')), nb_letters, VOCAB_SIZE, indices_char) #700

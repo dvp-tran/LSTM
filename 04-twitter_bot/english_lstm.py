@@ -30,8 +30,8 @@ seed_=args.seed
 nb_letters=args.number_of_letters
 
 #directories where files are
-out_path="../../LSTM/02-train_LSTM/english/data/"
-last_checkpoint_dir="../../LSTM/02-train_LSTM/english/data/weights/weight_attempt_s02/"
+out_path="../02-train_LSTM/english/data/"
+last_checkpoint_dir="../02-train_LSTM/english/data/weights/weight_attempt_s02/"
 all_files = [f for f in listdir(last_checkpoint_dir) if isfile(join(last_checkpoint_dir, f))]
 if len(all_files)!=1:
     print("Something wrong with model checkpoint, please verify concerned directory")
