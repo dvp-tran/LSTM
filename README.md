@@ -15,3 +15,7 @@ Talkative Bot : a bot trying to be creative.
 - opencv
 - demjson
 
+
+## Illustration :
+
+![alt tag](https://github.com/dvp-tran/LSTM/blob/master/data/output/40.jpg)
