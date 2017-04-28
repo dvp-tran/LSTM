@@ -39,6 +39,9 @@ def get_timeline(count):
     timeline=api.GetHomeTimeline(count=count)
     return timeline
 
+def get_reply(status_id,count):
+    replies = api.GetReplies(status_id,count=count,trim_user=True)
+    return replies
 
 def get_media_reply(timeline, last=True):
     for statuses in timeline:
@@ -71,15 +74,16 @@ def save_media(media_url):
 # ## II. Post media
 
 
-def auto_answer():
+def auto_answer(since_id=None):
     flag=True
     i=0
     while flag==True:
         try:
             time.sleep(10)
             print("Iteration : %s" %i)
-            timeline=get_timeline(4)
-            status_id,user,media_url,status_text = get_media_reply(timeline,last=True)
+            if not since_id:
+                timeline=get_timeline(4)
+                status_id,user,media_url,status_text = get_media_reply(timeline,last=True)                
             if not os.path.exists('../data/images/list/'):
                 os.makedirs('../data/images/list/')
             with open('../data/images/list/list.txt','r') as f:
@@ -123,6 +127,7 @@ def auto_answer():
                 print("Restarting")
                 
     return
+
 
 # ## III. Create picture to send
 
@@ -175,6 +180,7 @@ def bot_evoke(file_path,nb_letters,lang):
     print("Image Captionning...")
     proc = subprocess.Popen(["python","generate_from_image.py",file_path], stdout=subprocess.PIPE)
     blabla = proc.communicate()[0]
+    blabla = blabla.replace(" ."," ")
     print("\t" +blabla)
     if lang=="en":
         proc = subprocess.Popen(["python","english_lstm.py",blabla,"%s" %nb_letters], stdout=subprocess.PIPE)
