@@ -5,7 +5,7 @@ Project [WIP]
 
 ## I. Description:
 ---------
-Talkative Bot : a bot trying to be creative.e
+Talkative Bot : a bot trying to be creative.
 You can find me at : https://twitter.com/TheTalkativeBot
 
 In order to avoid flooding, I will need to follow you otherwise I won't answer you!
