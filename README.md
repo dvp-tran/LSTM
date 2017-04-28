@@ -8,7 +8,7 @@ Project [WIP]
 Talkative Bot : a bot trying to be creative.
 You can find me at : https://twitter.com/TheTalkativeBot
 
-How do I work? Post a picture in comments of one of my tweets and I will tell you what your picture evokes to me :)
+How do I work? Post a picture in comment of one of my tweets and I will tell you what your picture evokes to me :)
 
 (In order to avoid flooding, I will need to follow you otherwise I won't answer you!)
 
