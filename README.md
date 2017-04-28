@@ -2,6 +2,9 @@
 
 Project [WIP]
 
+Authors : 
+- Samy BOUCHNAIF
+- Duc-Vinh TRAN
 
 ## I. Description:
 ---------
