@@ -96,6 +96,9 @@ def auto_answer():
                 if "german" in status_text.lower():
                     lang="ger"
                 text_input=bot_evoke(file_path,nb_letters,lang)
+                if not text_input:
+                    print("Error in evoke step!")
+                    flag=False
                 #define outpath by parsing file_path
                 out_path="../data/output/"+(file_path[15:])
                 draw_answer(file_path,out_path,text_input)
@@ -108,6 +111,7 @@ def auto_answer():
             
                 time.sleep(60)
             i=i+1
+            time.sleep(60)
             if i==25:
                 flag=False
                 
@@ -172,8 +176,8 @@ def bot_evoke(file_path,nb_letters,lang):
     proc = subprocess.Popen(["python","generate_from_image.py",file_path], stdout=subprocess.PIPE)
     blabla = proc.communicate()[0]
     print("\t" +blabla)
-    blabla = translate_api.quick_translate(blabla,lang,"en")
-    blabla = normalize('NFKD',blabla.decode('latin1')).encode('ASCII', 'ignore')
+    blabla = translate_api.quick_translate(blabla,lang,"en").encode('utf-8')
+    blabla = normalize('NFKD',blabla.decode('utf-8')).encode('ASCII', 'ignore')
     print("\t Translation in %s :%s !" %(lang,blabla))
     print("Dreaming...")
     if lang=="en":
