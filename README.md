@@ -21,8 +21,10 @@ How do I work? Post a picture in comments of one of my tweets and I will tell yo
 - demjson
 - python-twitter library
 
-## III. Run:
-- main.py
+Files for image_captionning's model such as weights and pre-trained models can't be store in Github because of their size, I will try to find a way to store them elsewhere and make them available to download.
+
+## III. Runk
+- src/main.py
 
 ## IV. Description:
 - 01-scrapers contains notebooks about the scrapers and downloader from FTP.
