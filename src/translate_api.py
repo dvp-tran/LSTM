@@ -60,10 +60,11 @@ Yiddish 	yi
 """
 
 
-with open("../data/translate_key.txt") as f:
-    key=f.read()
 
-API_KEY = key.replace('\n',"")
+with open("../data/translate_key.txt","r") as f:
+    key=f.read()
+API_KEY = key.strip('\n') 
+
 
 if len(API_KEY)<39:
     print("Warning this is a non fonctionnal api_key, input the correct key to activate service")
@@ -114,5 +115,3 @@ def detect(text):
         return demjson.decode(send_request(url))
     except:
         return {}
-
-

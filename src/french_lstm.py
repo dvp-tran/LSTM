@@ -22,7 +22,7 @@ import argparse
 
 
 #argparse file path
-parser = argparse.ArgumentParser(description='English dreamer.')
+parser = argparse.ArgumentParser(description='French dreamer.')
 parser.add_argument('seed', type=str, help='string to init LSTM.')
 parser.add_argument('number_of_letters', type=int, help='string to init LSTM.')
 args = parser.parse_args()
@@ -30,8 +30,8 @@ seed_=args.seed
 nb_letters=args.number_of_letters
 
 #directories where files are
-out_path="../02-train_LSTM/english/data/"
-last_checkpoint_dir="../02-train_LSTM/english/data/weights/weight_attempt_s02/"
+out_path="../02-train_LSTM/french/data/"
+last_checkpoint_dir="../02-train_LSTM/french/data/weights/weight_attempt_s03_2/"
 all_files = [f for f in listdir(last_checkpoint_dir) if isfile(join(last_checkpoint_dir, f))]
 if len(all_files)!=1:
     print("Something wrong with model checkpoint, please verify concerned directory")
@@ -40,7 +40,7 @@ last_checkpoint = last_checkpoint_dir+all_files[0]
 #print("Using checkpoint : %s" %last_checkpoint)
 
 #getting files from learning session
-file_name=out_path+'input/english.txt'
+file_name=out_path+'input/french2.txt'
 text = open(file_name).read()
 text=normalize('NFKD',text.decode('latin1')).encode('ASCII', 'ignore')
 text = re.sub("\n\n+" , "\n", text)

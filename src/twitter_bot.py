@@ -15,12 +15,13 @@ from PIL import ImageDraw
 import textwrap
 import sys
 import subprocess
+import translate_api
+from unicodedata import normalize
 
 
 #variables:
 #file_path="images/1.jpg"
 nb_letters=700
-out_path="output/1.jpg"
 
 #Credentials
 api = twitter.Api(consumer_key='LyNVanTEQEOEGKfXAMeLv6AKG',
@@ -85,13 +86,25 @@ def auto_answer():
                 text = f.read()
             text=text.split("\n")
             if media_url not in text:
-                with open('../data/images/list/list.txt', "a") as f:
-                    f.write(media_url+"\n")
+                #saving image
                 file_path=save_media(media_url)
-                text_input=bot_evoke(file_path,nb_letters)
+                print("Image saved at : %s." %file_path)
+                #detect language:
+                lang="en"
+                if "french" in status_text.lower():
+                    lang="fr"
+                if "german" in status_text.lower():
+                    lang="ger"
+                text_input=bot_evoke(file_path,nb_letters,lang)
+                #define outpath by parsing file_path
+                out_path="../data/output/"+(file_path[15:])
                 draw_answer(file_path,out_path,text_input)
+                print("Answer-image drawn and saved at :%s!" %out_path)
                 post_media(out_path,status_id)
                 print("Status id : %s, answered." %status_id)
+                with open('../data/images/list/list.txt', "a") as f:
+                    f.write(media_url+"\n")
+                print("Image flagged for no further repetition.")
             
                 time.sleep(60)
             i=i+1
@@ -128,7 +141,7 @@ def draw_answer(in_path,out_path,text_input):
     offset = ((bg_w - img_w) / 2, (bg_h - img_h) / 6)
     background.paste(img, offset)
     draw = ImageDraw.Draw(background)
-    font = ImageFont.truetype("..data/font/SpecialElite.ttf", 30)
+    font = ImageFont.truetype("../data/font/SpecialElite.ttf", 30)
     # draw.text((x, y),"Sample Text",(r,g,b))
     offset_=0
     for line in text:
@@ -154,16 +167,27 @@ def post_media(media_path,post_id):
 
 # ## IV. Generate text from image
 
-def bot_evoke(file_path,nb_letters):
+def bot_evoke(file_path,nb_letters,lang):
+    print("Image Captionning...")
     proc = subprocess.Popen(["python","generate_from_image.py",file_path], stdout=subprocess.PIPE)
     blabla = proc.communicate()[0]
-    proc = subprocess.Popen(["python","english_lstm.py",blabla,"%s" %nb_letters], stdout=subprocess.PIPE)
-    blabla = proc.communicate()[0]
+    print("\t" +blabla)
+    blabla = translate_api.quick_translate(blabla,lang,"en")
+    blabla = normalize('NFKD',blabla.decode('latin1')).encode('ASCII', 'ignore')
+    print("\t Translation in %s :%s !" %(lang,blabla))
+    print("Dreaming...")
+    if lang=="en":
+        proc = subprocess.Popen(["python","english_lstm.py",blabla,"%s" %nb_letters], stdout=subprocess.PIPE)
+        blabla = proc.communicate()[0]
+    if lang=="fr":
+        print("In french :")
+        proc = subprocess.Popen(["python","french_lstm.py",blabla,"%s" %nb_letters], stdout=subprocess.PIPE)
+        blabla = proc.communicate()[0]   
+    if lang=="ger":
+        proc = subprocess.Popen(["python","german_lstm.py",blabla,"%s" %nb_letters], stdout=subprocess.PIPE)
+        blabla = proc.communicate()[0]  
     print(blabla)
     return blabla
-
-#draw_answer(file_path,out_path,blabla+"[...]")
-
 
 
 
