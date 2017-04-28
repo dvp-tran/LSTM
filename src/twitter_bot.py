@@ -109,7 +109,7 @@ def auto_answer():
                     f.write(media_url+"\n")
                 print("Image flagged for no further repetition.")
             
-                time.sleep(60)
+                time.sleep(10)
             i=i+1
             time.sleep(60)
             if i==25:
@@ -176,13 +176,15 @@ def bot_evoke(file_path,nb_letters,lang):
     proc = subprocess.Popen(["python","generate_from_image.py",file_path], stdout=subprocess.PIPE)
     blabla = proc.communicate()[0]
     print("\t" +blabla)
+    if lang=="en":
+        proc = subprocess.Popen(["python","english_lstm.py",blabla,"%s" %nb_letters], stdout=subprocess.PIPE)
+        blabla = proc.communicate()[0]
+        print(blabla)
+        return blabla
     blabla = translate_api.quick_translate(blabla,lang,"en").encode('utf-8')
     blabla = normalize('NFKD',blabla.decode('utf-8')).encode('ASCII', 'ignore')
     print("\t Translation in %s :%s !" %(lang,blabla))
     print("Dreaming...")
-    if lang=="en":
-        proc = subprocess.Popen(["python","english_lstm.py",blabla,"%s" %nb_letters], stdout=subprocess.PIPE)
-        blabla = proc.communicate()[0]
     if lang=="fr":
         print("In french :")
         proc = subprocess.Popen(["python","french_lstm.py",blabla,"%s" %nb_letters], stdout=subprocess.PIPE)
@@ -192,7 +194,5 @@ def bot_evoke(file_path,nb_letters,lang):
         blabla = proc.communicate()[0]  
     print(blabla)
     return blabla
-
-
 
 
