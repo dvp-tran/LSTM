@@ -174,7 +174,7 @@ class Caption_Generator():
 
 
 if not os.path.exists('../03-image_captionning/data/ixtoword.npy'):
-    print ('You must run 1. Training.ipynb first.')
+    print ('You must run 1. Training.ipynb first from the 03_image captionning folder.')
 else:    
     with open(vgg_path,'rb') as f:
         #print("vgg file opened.")

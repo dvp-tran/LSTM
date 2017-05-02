@@ -193,7 +193,7 @@ def bot_evoke(file_path,nb_letters,lang):
     print("Dreaming...")
     if lang=="fr":
         print("In french :")
-        proc = subprocess.Popen(["python","french_lstm.py",blabla,"%s" %nb_letters], stdout=subprocess.PIPE)
+        proc = subprocess.Popen(["python","french_lstm_2.py",blabla,"%s" %nb_letters], stdout=subprocess.PIPE) #french_lstm_2
         blabla = proc.communicate()[0]   
     if lang=="ger":
         proc = subprocess.Popen(["python","german_lstm.py",blabla,"%s" %nb_letters], stdout=subprocess.PIPE)
